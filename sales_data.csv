@@ -1,0 +1,1001 @@
+timestamp,customer_id,gender,Country,product,units_sold,price_per_unit,total_sales,loyalty_card
+29-11-2019 17:45,CUST113,Female,France,Home & Kitchen,16,184.72,4433.28,No
+30-11-2019 17:45,CUST4,Male,Australia,Fashion & Accessories,11,91.53,1510.25,Yes
+01-12-2019 17:45,CUST170,Female,China,Fashion & Accessories,18,435.99,11771.73,Yes
+02-12-2019 17:45,CUST160,Female,Brazil,Home & Kitchen,20,25.13,753.9,Yes
+03-12-2019 17:45,CUST65,Female,Italy,Clothing,9,218.22,2945.97,Yes
+04-12-2019 17:45,CUST159,Male,Italy,Clothing,14,424.86,8922.06,No
+05-12-2019 17:45,CUST216,Female,Japan,Clothing,5,204.46,1533.45,No
+06-12-2019 17:45,CUST85,Female,France,Fashion & Accessories,2,447.55,1342.65,Yes
+07-12-2019 17:45,CUST78,Male,Brazil,Electronics,17,450.57,11489.53,No
+08-12-2019 17:45,CUST237,Male,New York,Clothing,5,432.83,3246.23,Yes
+09-12-2019 17:45,CUST147,Male,Australia,Home & Kitchen,6,12.7,114.3,Yes
+10-12-2019 17:45,CUST185,Male,India,Clothing,7,302.02,3171.21,Yes
+11-12-2019 17:45,CUST151,Female,France,Home & Kitchen,4,241.93,1451.58,Yes
+12-12-2019 17:45,CUST138,Male,Brazil,Electronics,7,335.52,3522.96,Yes
+13-12-2019 17:45,CUST9,Female,Germany,Fashion & Accessories,4,200.05,1200.3,Yes
+14-12-2019 17:45,CUST272,Female,India,Clothing,13,442.84,8635.38,Yes
+15-12-2019 17:45,CUST68,Male,Australia,Electronics,18,235.74,6364.98,No
+16-12-2019 17:45,CUST211,Male,Brazil,Clothing,17,46.58,1187.79,No
+17-12-2019 17:45,CUST107,Female,United States,Electronics,8,377.2,4526.4,No
+18-12-2019 17:45,CUST231,Female,India,Electronics,10,250.42,3756.3,Yes
+19-12-2019 17:45,CUST55,Male,Canada,Home & Kitchen,6,112.49,1012.41,Yes
+20-12-2019 17:45,CUST19,Male,Italy,Home & Kitchen,17,164.89,4204.69,Yes
+21-12-2019 17:45,CUST166,Male,Italy,Clothing,6,88.61,797.49,No
+22-12-2019 17:45,CUST62,Male,Brazil,Home & Kitchen,10,19.63,294.45,No
+23-12-2019 17:45,CUST208,Male,India,Clothing,12,443.67,7986.06,Yes
+24-12-2019 17:45,CUST218,Male,France,Home & Kitchen,11,342.72,5654.88,No
+25-12-2019 17:45,CUST168,Male,New York,Clothing,3,31.16,140.22,No
+26-12-2019 17:45,CUST157,Female,United States,Fashion & Accessories,4,184.31,1105.86,No
+27-12-2019 17:45,CUST232,Male,Australia,Home & Kitchen,2,284.43,853.29,Yes
+28-12-2019 17:45,CUST256,Female,New York,Fashion & Accessories,13,56.19,1095.7,No
+29-12-2019 17:45,CUST295,Female,United States,Home & Kitchen,2,78.13,234.39,No
+30-12-2019 17:45,CUST247,Male,Italy,Clothing,3,443.1,1993.95,No
+31-12-2019 17:45,CUST106,Female,China,Electronics,18,440.02,11880.54,Yes
+01-01-2020 17:45,CUST246,Female,United States,Electronics,5,136.7,546.8,No
+02-01-2020 17:45,CUST10,Female,New York,Electronics,20,381.52,6104.32,No
+03-01-2020 17:45,CUST194,Male,New York,Clothing,17,179.89,2446.5,Yes
+04-01-2020 17:45,CUST74,Male,Brazil,Fashion & Accessories,17,164.14,2232.3,Yes
+05-01-2020 17:45,CUST107,Female,India,Clothing,1,433.68,346.94,No
+06-01-2020 17:45,CUST137,Female,France,Clothing,4,307.24,983.17,Yes
+07-01-2020 17:45,CUST108,Female,France,Fashion & Accessories,10,460.98,3687.84,Yes
+08-01-2020 17:45,CUST115,Male,New York,Clothing,2,491.19,785.9,Yes
+09-01-2020 17:45,CUST143,Female,New York,Electronics,1,285.97,228.78,Yes
+10-01-2020 17:45,CUST153,Male,New York,Clothing,1,174.49,139.59,No
+11-01-2020 17:45,CUST149,Female,Italy,Fashion & Accessories,2,392.41,627.86,Yes
+12-01-2020 17:45,CUST24,Female,Italy,Electronics,6,452.17,2170.42,Yes
+13-01-2020 17:45,CUST225,Male,New York,Fashion & Accessories,18,355.46,5118.62,Yes
+14-01-2020 17:45,CUST164,Male,Australia,Fashion & Accessories,5,69.19,276.76,No
+15-01-2020 17:45,CUST45,Female,New York,Home & Kitchen,14,418.38,4685.86,No
+16-01-2020 17:45,CUST74,Female,Canada,Electronics,20,262.24,4195.84,Yes
+17-01-2020 17:45,CUST200,Male,Italy,Home & Kitchen,17,405.68,5517.25,Yes
+18-01-2020 17:45,CUST255,Female,United States,Clothing,6,240.68,1155.26,No
+19-01-2020 17:45,CUST49,Male,Brazil,Clothing,10,234.72,1877.76,No
+20-01-2020 17:45,CUST47,Male,New York,Home & Kitchen,4,80.82,258.62,No
+21-01-2020 17:45,CUST276,Female,Brazil,Electronics,7,475.53,2662.97,No
+22-01-2020 17:45,CUST29,Male,Japan,Home & Kitchen,9,68.81,495.43,No
+23-01-2020 17:45,CUST274,Male,Canada,Home & Kitchen,1,186.41,149.13,Yes
+24-01-2020 17:45,CUST290,Male,Germany,Clothing,8,386.24,2471.94,Yes
+25-01-2020 17:45,CUST75,Male,Australia,Fashion & Accessories,13,101.76,1058.3,No
+26-01-2020 17:45,CUST21,Male,United States,Clothing,1,190.69,152.55,No
+27-01-2020 17:45,CUST100,Female,Canada,Clothing,16,160.38,2052.86,Yes
+28-01-2020 17:45,CUST189,Female,Germany,Fashion & Accessories,19,378.62,5755.02,Yes
+29-01-2020 17:45,CUST281,Male,Australia,Clothing,13,168.46,1751.98,No
+30-01-2020 17:45,CUST160,Male,Australia,Fashion & Accessories,5,340.95,1363.8,Yes
+31-01-2020 17:45,CUST156,Female,India,Fashion & Accessories,6,11.06,53.09,Yes
+01-02-2020 17:45,CUST212,Female,China,Clothing,15,50.75,609,No
+02-02-2020 17:45,CUST210,Male,France,Electronics,17,197.04,2679.74,No
+03-02-2020 17:45,CUST43,Female,Brazil,Clothing,18,178.6,2571.84,No
+04-02-2020 17:45,CUST121,Female,New York,Clothing,16,54.83,701.82,No
+05-02-2020 17:45,CUST270,Female,India,Fashion & Accessories,7,401.72,2249.63,Yes
+06-02-2020 17:45,CUST79,Male,Japan,Home & Kitchen,9,64.88,467.14,No
+07-02-2020 17:45,CUST178,Female,India,Home & Kitchen,10,16.1,128.8,No
+08-02-2020 17:45,CUST201,Female,Germany,Clothing,12,67.95,652.32,No
+09-02-2020 17:45,CUST218,Female,Japan,Clothing,3,434.41,1042.58,No
+10-02-2020 17:45,CUST28,Male,France,Clothing,12,119.43,1146.53,Yes
+11-02-2020 17:45,CUST159,Male,Australia,Home & Kitchen,5,132.43,529.72,Yes
+12-02-2020 17:45,CUST87,Male,Australia,Fashion & Accessories,19,449.79,6836.81,Yes
+13-02-2020 17:45,CUST45,Female,Italy,Home & Kitchen,2,14,22.4,No
+14-02-2020 17:45,CUST155,Female,China,Clothing,3,470.33,1128.79,No
+15-02-2020 17:45,CUST206,Female,Italy,Home & Kitchen,6,277.99,1334.35,No
+16-02-2020 17:45,CUST235,Female,United States,Electronics,20,428.13,6850.08,No
+17-02-2020 17:45,CUST179,Male,France,Clothing,19,265.26,4031.95,Yes
+18-02-2020 17:45,CUST32,Male,Italy,Electronics,20,484.05,7744.8,Yes
+19-02-2020 17:45,CUST268,Male,China,Home & Kitchen,4,44.06,140.99,Yes
+20-02-2020 17:45,CUST235,Female,Australia,Clothing,15,146.66,1759.92,Yes
+21-02-2020 17:45,CUST250,Male,Germany,Home & Kitchen,8,470.69,3012.42,Yes
+22-02-2020 17:45,CUST256,Male,Germany,Electronics,3,177.99,427.18,No
+23-02-2020 17:45,CUST241,Female,Brazil,Clothing,11,137.76,1212.29,No
+24-02-2020 17:45,CUST176,Female,Australia,Clothing,6,68.78,330.14,Yes
+25-02-2020 17:45,CUST74,Male,Japan,Electronics,1,191.56,153.25,No
+26-02-2020 17:45,CUST285,Female,New York,Electronics,14,409.22,4583.26,No
+27-02-2020 17:45,CUST297,Female,Australia,Clothing,5,428.86,1715.44,No
+28-02-2020 17:45,CUST146,Male,Brazil,Home & Kitchen,4,175.8,562.56,No
+29-02-2020 17:45,CUST194,Female,Brazil,Fashion & Accessories,14,190.08,2128.9,No
+01-03-2020 17:45,CUST108,Female,Australia,Clothing,2,304.15,669.13,Yes
+02-03-2020 17:45,CUST267,Male,Japan,Electronics,4,181.69,799.44,No
+03-03-2020 17:45,CUST143,Female,China,Home & Kitchen,2,406.52,894.34,No
+04-03-2020 17:45,CUST175,Female,China,Electronics,17,469.4,8777.78,No
+05-03-2020 17:45,CUST67,Female,Japan,Home & Kitchen,3,124.13,409.63,No
+06-03-2020 17:45,CUST194,Female,Italy,Fashion & Accessories,5,324.5,1784.75,No
+07-03-2020 17:45,CUST76,Female,Germany,Clothing,3,55.33,182.59,No
+08-03-2020 17:45,CUST253,Male,India,Fashion & Accessories,5,100.26,551.43,No
+09-03-2020 17:45,CUST258,Female,United States,Fashion & Accessories,1,362.49,398.74,Yes
+10-03-2020 17:45,CUST15,Male,China,Fashion & Accessories,5,325.55,1790.53,Yes
+11-03-2020 17:45,CUST166,Male,France,Fashion & Accessories,13,282.56,4040.61,No
+12-03-2020 17:45,CUST203,Male,Canada,Home & Kitchen,9,118.08,1168.99,No
+13-03-2020 17:45,CUST22,Female,France,Clothing,9,402.53,3985.05,Yes
+14-03-2020 17:45,CUST261,Female,Canada,Clothing,1,355.06,390.57,Yes
+15-03-2020 17:45,CUST40,Male,United States,Clothing,17,163.24,3052.59,No
+16-03-2020 17:45,CUST295,Male,Australia,Electronics,10,32.54,357.94,Yes
+17-03-2020 17:45,CUST192,Male,Italy,Home & Kitchen,6,125.09,825.59,Yes
+18-03-2020 17:45,CUST198,Female,Brazil,Clothing,10,166.66,1833.26,No
+19-03-2020 17:45,CUST127,Female,New York,Electronics,12,149.04,1967.33,No
+20-03-2020 17:45,CUST283,Female,China,Electronics,1,213.97,235.37,No
+21-03-2020 17:45,CUST90,Female,India,Clothing,5,338.4,1861.2,Yes
+22-03-2020 17:45,CUST218,Male,Germany,Fashion & Accessories,14,144.53,2225.76,No
+23-03-2020 17:45,CUST46,Female,Brazil,Fashion & Accessories,4,283.88,1249.07,Yes
+24-03-2020 17:45,CUST168,Female,France,Home & Kitchen,13,75.8,1083.94,Yes
+25-03-2020 17:45,CUST21,Male,Canada,Electronics,5,344.47,1894.59,No
+26-03-2020 17:45,CUST245,Male,United States,Home & Kitchen,12,105.61,1394.05,No
+27-03-2020 17:45,CUST249,Female,India,Clothing,18,192.6,3813.48,No
+28-03-2020 17:45,CUST253,Male,Italy,Fashion & Accessories,16,144.17,2537.39,Yes
+29-03-2020 17:45,CUST55,Male,Germany,Clothing,16,167.89,2954.86,Yes
+30-03-2020 17:45,CUST26,Male,New York,Home & Kitchen,10,339.77,3737.47,No
+31-03-2020 17:45,CUST287,Male,Canada,Clothing,3,483.02,1593.97,No
+01-04-2020 17:45,CUST93,Female,Canada,Electronics,14,329.34,4610.76,Yes
+02-04-2020 17:45,CUST270,Female,Japan,Home & Kitchen,12,243.73,2924.76,Yes
+03-04-2020 17:45,CUST21,Female,China,Home & Kitchen,14,94.55,1323.7,Yes
+04-04-2020 17:45,CUST225,Male,Germany,Clothing,20,413.2,8264,No
+05-04-2020 17:45,CUST84,Female,United States,Electronics,15,78.82,1182.3,Yes
+06-04-2020 17:45,CUST113,Female,France,Clothing,19,328.41,6239.79,Yes
+07-04-2020 17:45,CUST72,Male,United States,Clothing,20,109.05,2181,No
+08-04-2020 17:45,CUST82,Male,Japan,Clothing,10,173.41,1734.1,Yes
+09-04-2020 17:45,CUST206,Female,Japan,Home & Kitchen,10,249.19,2491.9,No
+10-04-2020 17:45,CUST238,Male,Japan,Fashion & Accessories,15,236.47,3547.05,No
+11-04-2020 17:45,CUST99,Male,Australia,Electronics,3,221.48,664.44,Yes
+12-04-2020 17:45,CUST290,Female,Australia,Home & Kitchen,2,143.1,286.2,No
+13-04-2020 17:45,CUST38,Male,Canada,Electronics,12,463.95,5567.4,No
+14-04-2020 17:45,CUST205,Male,Japan,Fashion & Accessories,16,434.15,6946.4,No
+15-04-2020 17:45,CUST300,Female,United States,Fashion & Accessories,20,231.01,4620.2,No
+16-04-2020 17:45,CUST15,Female,Brazil,Fashion & Accessories,8,117.26,938.08,No
+17-04-2020 17:45,CUST157,Male,Germany,Fashion & Accessories,12,478.76,5745.12,No
+18-04-2020 17:45,CUST72,Female,Canada,Fashion & Accessories,10,451.76,4517.6,No
+19-04-2020 17:45,CUST140,Male,Brazil,Clothing,18,374.24,6736.32,No
+20-04-2020 17:45,CUST167,Female,New York,Clothing,1,429.93,429.93,No
+21-04-2020 17:45,CUST63,Male,India,Fashion & Accessories,16,209.65,3354.4,No
+22-04-2020 17:45,CUST234,Female,India,Clothing,17,390.85,6644.45,No
+23-04-2020 17:45,CUST249,Female,Brazil,Electronics,2,488.58,977.16,Yes
+24-04-2020 17:45,CUST95,Male,India,Home & Kitchen,4,257.9,1031.6,No
+25-04-2020 17:45,CUST283,Male,New York,Electronics,4,12.08,48.32,Yes
+26-04-2020 17:45,CUST209,Male,China,Home & Kitchen,20,252.58,5051.6,Yes
+27-04-2020 17:45,CUST59,Female,Japan,Fashion & Accessories,14,50.22,703.08,Yes
+28-04-2020 17:45,CUST186,Female,Brazil,Home & Kitchen,14,284.73,3986.22,No
+29-04-2020 17:45,CUST17,Male,Australia,Electronics,10,446.09,4460.9,Yes
+30-04-2020 17:45,CUST94,Male,France,Home & Kitchen,3,212.04,636.12,Yes
+01-05-2020 17:45,CUST92,Male,United States,Electronics,1,458.08,458.08,Yes
+02-05-2020 17:45,CUST93,Female,India,Electronics,20,461.19,9223.8,Yes
+03-05-2020 17:45,CUST26,Female,United States,Clothing,1,412.03,412.03,Yes
+04-05-2020 17:45,CUST50,Male,United States,Electronics,12,228.88,2746.56,No
+05-05-2020 17:45,CUST219,Female,Australia,Clothing,15,368.73,5530.95,Yes
+06-05-2020 17:45,CUST28,Male,Germany,Clothing,6,444.3,2665.8,No
+07-05-2020 17:45,CUST245,Female,United States,Home & Kitchen,15,425.72,6385.8,No
+08-05-2020 17:45,CUST225,Female,Japan,Electronics,1,113.38,113.38,Yes
+09-05-2020 17:45,CUST121,Male,Italy,Fashion & Accessories,15,103.5,1552.5,Yes
+10-05-2020 17:45,CUST50,Male,Japan,Electronics,16,315.77,5052.32,Yes
+11-05-2020 17:45,CUST264,Male,Australia,Clothing,9,194.13,1747.17,Yes
+12-05-2020 17:45,CUST115,Male,New York,Fashion & Accessories,8,221.07,1768.56,Yes
+13-05-2020 17:45,CUST194,Male,China,Fashion & Accessories,9,191.75,1725.75,No
+14-05-2020 17:45,CUST244,Female,India,Fashion & Accessories,9,129.43,1164.87,Yes
+15-05-2020 17:45,CUST14,Male,New York,Fashion & Accessories,18,199.34,3588.12,No
+16-05-2020 17:45,CUST2,Male,Australia,Clothing,2,58.66,117.32,Yes
+17-05-2020 17:45,CUST266,Male,Italy,Clothing,2,292.2,584.4,Yes
+18-05-2020 17:45,CUST257,Female,Australia,Clothing,3,74.98,224.94,Yes
+19-05-2020 17:45,CUST37,Male,France,Home & Kitchen,18,128.48,2312.64,No
+20-05-2020 17:45,CUST266,Male,France,Home & Kitchen,19,225.68,4287.92,Yes
+21-05-2020 17:45,CUST148,Female,Italy,Fashion & Accessories,18,440.79,7934.22,No
+22-05-2020 17:45,CUST201,Male,Brazil,Electronics,9,370.84,3337.56,Yes
+23-05-2020 17:45,CUST184,Female,Canada,Home & Kitchen,2,327.02,654.04,No
+24-05-2020 17:45,CUST261,Male,Japan,Fashion & Accessories,3,214.53,643.59,Yes
+25-05-2020 17:45,CUST66,Female,Italy,Home & Kitchen,20,16.27,325.4,No
+26-05-2020 17:45,CUST197,Male,Australia,Home & Kitchen,7,221.18,1548.26,Yes
+27-05-2020 17:45,CUST105,Male,Germany,Clothing,3,202.97,608.91,No
+28-05-2020 17:45,CUST5,Female,India,Home & Kitchen,9,48.18,433.62,No
+29-05-2020 17:45,CUST175,Male,India,Electronics,15,206.11,3091.65,No
+30-05-2020 17:45,CUST255,Male,Australia,Home & Kitchen,11,24.2,266.2,Yes
+31-05-2020 17:45,CUST148,Female,China,Home & Kitchen,16,13.71,219.36,No
+01-06-2020 17:45,CUST252,Male,France,Fashion & Accessories,9,422.3,4560.84,Yes
+02-06-2020 17:45,CUST233,Male,France,Electronics,17,220.44,4496.98,Yes
+03-06-2020 17:45,CUST236,Male,Germany,Electronics,4,321.47,1543.06,No
+04-06-2020 17:45,CUST189,Male,Canada,Fashion & Accessories,8,57.75,554.4,Yes
+05-06-2020 17:45,CUST227,Female,Japan,Clothing,11,182.98,2415.34,Yes
+06-06-2020 17:45,CUST266,Female,France,Electronics,20,209.64,5031.36,No
+07-06-2020 17:45,CUST125,Female,Germany,Electronics,14,394.64,6629.95,Yes
+08-06-2020 17:45,CUST141,Male,Japan,Home & Kitchen,16,64.12,1231.1,Yes
+09-06-2020 17:45,CUST128,Male,Australia,Electronics,16,485.19,9315.65,No
+10-06-2020 17:45,CUST293,Female,New York,Electronics,11,416.93,5503.48,Yes
+11-06-2020 17:45,CUST272,Male,India,Home & Kitchen,14,497.27,8354.14,No
+12-06-2020 17:45,CUST164,Male,Canada,Fashion & Accessories,4,81.4,390.72,Yes
+13-06-2020 17:45,CUST285,Female,Canada,Home & Kitchen,16,115.33,2214.34,Yes
+14-06-2020 17:45,CUST221,Female,Canada,Clothing,15,37.14,668.52,Yes
+15-06-2020 17:45,CUST14,Female,Australia,Clothing,3,99.85,359.46,Yes
+16-06-2020 17:45,CUST48,Female,Brazil,Home & Kitchen,20,411.49,9875.76,Yes
+17-06-2020 17:45,CUST138,Male,United States,Fashion & Accessories,20,15.17,364.08,No
+18-06-2020 17:45,CUST230,Male,Germany,Electronics,5,463.71,2782.26,Yes
+19-06-2020 17:45,CUST100,Male,New York,Home & Kitchen,13,417.32,6510.19,No
+20-06-2020 17:45,CUST40,Male,United States,Clothing,6,63.22,455.18,Yes
+21-06-2020 17:45,CUST32,Female,Italy,Clothing,16,190.19,3651.65,No
+22-06-2020 17:45,CUST57,Male,Australia,Clothing,15,446.57,8038.26,No
+23-06-2020 17:45,CUST241,Female,India,Home & Kitchen,16,41.83,803.14,No
+24-06-2020 17:45,CUST239,Female,India,Fashion & Accessories,9,27.54,297.43,No
+25-06-2020 17:45,CUST25,Male,Japan,Clothing,13,254.27,3966.61,No
+26-06-2020 17:45,CUST285,Female,Brazil,Fashion & Accessories,6,53.63,386.14,Yes
+27-06-2020 17:45,CUST50,Male,Canada,Home & Kitchen,13,72.87,1136.77,No
+28-06-2020 17:45,CUST205,Female,China,Clothing,4,487.43,2339.66,Yes
+29-06-2020 17:45,CUST39,Male,Australia,Home & Kitchen,9,243.1,2625.48,Yes
+30-06-2020 17:45,CUST292,Female,New York,Home & Kitchen,5,275.31,1651.86,No
+01-07-2020 17:45,CUST96,Female,France,Fashion & Accessories,1,293.39,381.41,No
+02-07-2020 17:45,CUST115,Female,France,Home & Kitchen,18,227.88,5332.39,No
+03-07-2020 17:45,CUST47,Male,Brazil,Electronics,7,433.52,3945.03,No
+04-07-2020 17:45,CUST37,Female,New York,Clothing,1,173.46,225.5,Yes
+05-07-2020 17:45,CUST32,Male,United States,Clothing,16,404.61,8415.89,Yes
+06-07-2020 17:45,CUST290,Female,China,Electronics,3,385.64,1504,No
+07-07-2020 17:45,CUST25,Male,France,Home & Kitchen,16,18.71,389.17,No
+08-07-2020 17:45,CUST77,Female,Canada,Electronics,11,464.46,6641.78,Yes
+09-07-2020 17:45,CUST187,Female,United States,Home & Kitchen,11,410.61,5871.72,No
+10-07-2020 17:45,CUST203,Male,Germany,Fashion & Accessories,9,85.33,998.36,No
+11-07-2020 17:45,CUST214,Female,Canada,Fashion & Accessories,4,459.9,2391.48,Yes
+12-07-2020 17:45,CUST253,Male,New York,Clothing,17,496.88,10981.05,Yes
+13-07-2020 17:45,CUST14,Male,Germany,Fashion & Accessories,12,70.32,1096.99,Yes
+14-07-2020 17:45,CUST138,Female,India,Fashion & Accessories,14,113.32,2062.42,Yes
+15-07-2020 17:45,CUST112,Female,Canada,Fashion & Accessories,11,30.07,430,No
+16-07-2020 17:45,CUST43,Male,Brazil,Clothing,4,50.87,264.52,No
+17-07-2020 17:45,CUST47,Male,Australia,Home & Kitchen,17,164.15,3627.72,No
+18-07-2020 17:45,CUST58,Female,France,Electronics,13,241.07,4074.08,No
+19-07-2020 17:45,CUST265,Female,China,Home & Kitchen,14,214.14,3897.35,No
+20-07-2020 17:45,CUST279,Female,France,Electronics,19,74.71,1845.34,No
+21-07-2020 17:45,CUST117,Female,New York,Clothing,18,409.32,9578.09,No
+22-07-2020 17:45,CUST121,Female,France,Clothing,6,44.61,347.96,No
+23-07-2020 17:45,CUST41,Female,Canada,Home & Kitchen,11,458.34,6554.26,No
+24-07-2020 17:45,CUST262,Female,New York,Electronics,3,147.04,573.46,No
+25-07-2020 17:45,CUST253,Male,China,Fashion & Accessories,14,237.33,4319.41,Yes
+26-07-2020 17:45,CUST94,Male,Australia,Fashion & Accessories,13,472.61,7987.11,No
+27-07-2020 17:45,CUST8,Female,Germany,Fashion & Accessories,9,378.33,4426.46,No
+28-07-2020 17:45,CUST85,Female,United States,Clothing,16,218.59,4546.67,Yes
+29-07-2020 17:45,CUST220,Male,Canada,Home & Kitchen,14,192.43,3502.23,No
+30-07-2020 17:45,CUST219,Male,United States,Fashion & Accessories,13,104.36,1763.68,Yes
+31-07-2020 17:45,CUST172,Male,Germany,Clothing,9,60.47,707.5,Yes
+01-08-2020 17:45,CUST265,Female,Japan,Clothing,7,147.07,1235.39,Yes
+02-08-2020 17:45,CUST53,Female,France,Fashion & Accessories,12,128.88,1855.87,No
+03-08-2020 17:45,CUST144,Male,Brazil,Clothing,8,53.99,518.3,No
+04-08-2020 17:45,CUST19,Male,Canada,Home & Kitchen,6,335.11,2412.79,No
+05-08-2020 17:45,CUST136,Female,China,Fashion & Accessories,4,474.57,2277.94,No
+06-08-2020 17:45,CUST200,Male,Italy,Home & Kitchen,1,116.87,140.24,Yes
+07-08-2020 17:45,CUST160,Male,Japan,Fashion & Accessories,19,343.09,7822.45,Yes
+08-08-2020 17:45,CUST210,Female,Japan,Electronics,5,122.36,734.16,No
+09-08-2020 17:45,CUST32,Male,New York,Clothing,12,166.12,2392.13,Yes
+10-08-2020 17:45,CUST172,Male,China,Clothing,19,279.04,6362.11,No
+11-08-2020 17:45,CUST260,Male,Canada,Electronics,8,388.33,3727.97,Yes
+12-08-2020 17:45,CUST220,Male,Brazil,Home & Kitchen,5,417.72,2506.32,No
+13-08-2020 17:45,CUST281,Female,India,Fashion & Accessories,14,17.74,298.03,No
+14-08-2020 17:45,CUST111,Female,China,Home & Kitchen,12,168.69,2429.14,No
+15-08-2020 17:45,CUST68,Male,United States,Fashion & Accessories,11,164.84,2175.89,Yes
+16-08-2020 17:45,CUST141,Female,Japan,Home & Kitchen,13,266.32,4154.59,No
+17-08-2020 17:45,CUST197,Female,Japan,Clothing,15,413.99,7451.82,No
+18-08-2020 17:45,CUST194,Male,Brazil,Clothing,8,107.44,1031.42,Yes
+19-08-2020 17:45,CUST131,Male,Australia,Clothing,8,109.62,1052.35,Yes
+20-08-2020 17:45,CUST96,Female,France,Electronics,2,192.28,461.47,No
+21-08-2020 17:45,CUST152,Male,New York,Clothing,8,433.35,4160.16,No
+22-08-2020 17:45,CUST128,Male,Japan,Fashion & Accessories,1,99.28,119.14,No
+23-08-2020 17:45,CUST56,Male,Germany,Home & Kitchen,7,464.84,3904.66,Yes
+24-08-2020 17:45,CUST41,Female,China,Fashion & Accessories,8,174.85,1678.56,No
+25-08-2020 17:45,CUST180,Female,China,Home & Kitchen,15,434.35,7818.3,Yes
+26-08-2020 17:45,CUST124,Female,Brazil,Clothing,6,110.78,797.62,No
+27-08-2020 17:45,CUST199,Female,Japan,Electronics,20,137.97,3311.28,No
+28-08-2020 17:45,CUST201,Female,Canada,Home & Kitchen,1,136.06,163.27,Yes
+29-08-2020 17:45,CUST282,Male,United States,Clothing,8,423.94,4069.82,Yes
+30-08-2020 17:45,CUST14,Female,Japan,Electronics,18,344.21,7434.94,Yes
+31-08-2020 17:45,CUST271,Male,France,Home & Kitchen,3,281.08,1011.89,Yes
+01-09-2020 17:45,CUST16,Female,Germany,Fashion & Accessories,3,379.44,1252.15,No
+02-09-2020 17:45,CUST20,Female,Australia,Fashion & Accessories,17,129.87,2428.57,No
+03-09-2020 17:45,CUST30,Male,New York,Home & Kitchen,9,456.55,4519.85,No
+04-09-2020 17:45,CUST66,Male,Canada,Electronics,4,160.81,707.56,Yes
+05-09-2020 17:45,CUST286,Female,Italy,Home & Kitchen,19,138.85,2901.97,Yes
+06-09-2020 17:45,CUST13,Male,New York,Clothing,7,159.2,1225.84,Yes
+07-09-2020 17:45,CUST128,Male,Italy,Electronics,20,304.98,6709.56,No
+08-09-2020 17:45,CUST145,Male,Germany,Electronics,10,207.94,2287.34,No
+09-09-2020 17:45,CUST214,Male,Canada,Home & Kitchen,8,103.65,912.12,No
+10-09-2020 17:45,CUST35,Male,Italy,Clothing,1,324.72,357.19,No
+11-09-2020 17:45,CUST286,Male,Germany,Home & Kitchen,2,488.11,1073.84,Yes
+12-09-2020 17:45,CUST68,Female,Australia,Home & Kitchen,14,440.86,6789.24,No
+13-09-2020 17:45,CUST107,Male,Canada,Clothing,3,191.32,631.36,Yes
+14-09-2020 17:45,CUST239,Male,United States,Electronics,13,423.59,6057.34,Yes
+15-09-2020 17:45,CUST248,Female,Canada,Home & Kitchen,4,10.47,46.07,Yes
+16-09-2020 17:45,CUST22,Female,United States,Clothing,13,467.38,6683.53,Yes
+17-09-2020 17:45,CUST3,Female,Brazil,Fashion & Accessories,4,255.02,1122.09,Yes
+18-09-2020 17:45,CUST44,Male,Germany,Electronics,18,480.84,9520.63,No
+19-09-2020 17:45,CUST25,Female,Japan,Clothing,11,158.18,1913.98,Yes
+20-09-2020 17:45,CUST90,Female,Australia,Fashion & Accessories,11,99.24,1200.8,No
+21-09-2020 17:45,CUST259,Female,France,Electronics,17,237.25,4436.58,No
+22-09-2020 17:45,CUST152,Female,France,Electronics,8,231.12,2033.86,Yes
+23-09-2020 17:45,CUST3,Male,Japan,Electronics,19,129.27,2701.74,Yes
+24-09-2020 17:45,CUST266,Male,Germany,Electronics,12,311.82,4116.02,No
+25-09-2020 17:45,CUST185,Male,India,Fashion & Accessories,3,75.55,249.31,Yes
+26-09-2020 17:45,CUST247,Male,Brazil,Electronics,3,484.18,1597.79,Yes
+27-09-2020 17:45,CUST29,Male,Australia,Clothing,20,411.81,9059.82,Yes
+28-09-2020 17:45,CUST179,Female,Canada,Clothing,13,325.51,4654.79,Yes
+29-09-2020 17:45,CUST280,Male,China,Fashion & Accessories,5,168.29,925.6,Yes
+30-09-2020 17:45,CUST163,Female,Italy,Home & Kitchen,3,325.82,1075.21,No
+01-10-2020 17:45,CUST204,Female,Italy,Fashion & Accessories,15,415.84,6861.36,No
+02-10-2020 17:45,CUST239,Female,United States,Fashion & Accessories,13,330.29,4723.15,Yes
+03-10-2020 17:45,CUST78,Female,Canada,Fashion & Accessories,4,278.8,1226.72,Yes
+04-10-2020 17:45,CUST131,Female,Italy,Clothing,13,396.49,5669.81,Yes
+05-10-2020 17:45,CUST84,Female,Brazil,Electronics,9,345.66,3422.03,No
+06-10-2020 17:45,CUST180,Male,France,Fashion & Accessories,14,209.56,3227.22,No
+07-10-2020 17:45,CUST54,Male,Japan,Electronics,12,347.96,4593.07,Yes
+08-10-2020 17:45,CUST71,Female,New York,Fashion & Accessories,4,179.95,791.78,Yes
+09-10-2020 17:45,CUST129,Female,Brazil,Home & Kitchen,9,468.37,4636.86,No
+10-10-2020 17:45,CUST20,Female,Canada,Clothing,5,346.58,1906.19,Yes
+11-10-2020 17:45,CUST53,Female,Canada,Fashion & Accessories,14,282.32,4347.73,No
+12-10-2020 17:45,CUST45,Female,Italy,Clothing,16,368.11,6478.74,No
+13-10-2020 17:45,CUST195,Female,Italy,Electronics,7,469.77,3617.23,Yes
+14-10-2020 17:45,CUST287,Female,Canada,Fashion & Accessories,6,50.85,335.61,Yes
+15-10-2020 17:45,CUST123,Male,New York,Home & Kitchen,16,422.47,7435.47,Yes
+16-10-2020 17:45,CUST109,Female,France,Home & Kitchen,6,224.95,1484.67,Yes
+17-10-2020 17:45,CUST120,Female,France,Fashion & Accessories,4,18.14,79.82,No
+18-10-2020 17:45,CUST126,Female,Germany,Fashion & Accessories,12,388.92,5133.74,Yes
+19-10-2020 17:45,CUST225,Female,France,Fashion & Accessories,5,414.26,2278.43,No
+20-10-2020 17:45,CUST1,Female,Canada,Fashion & Accessories,16,488.51,8597.78,Yes
+21-10-2020 17:45,CUST283,Female,Australia,Fashion & Accessories,18,213.78,4232.84,Yes
+22-10-2020 17:45,CUST98,Male,Germany,Home & Kitchen,16,395.41,6959.22,Yes
+23-10-2020 17:45,CUST86,Male,China,Electronics,2,130.77,287.69,No
+24-10-2020 17:45,CUST19,Female,Italy,Fashion & Accessories,13,493.46,7056.48,Yes
+25-10-2020 17:45,CUST58,Female,France,Fashion & Accessories,3,138.82,458.11,Yes
+26-10-2020 17:45,CUST117,Female,India,Clothing,13,419.88,6004.28,No
+27-10-2020 17:45,CUST72,Male,Japan,Fashion & Accessories,1,144.02,158.42,No
+28-10-2020 17:45,CUST223,Female,India,Fashion & Accessories,9,286.78,2839.12,No
+29-10-2020 17:45,CUST233,Female,Brazil,Fashion & Accessories,1,313.42,344.76,No
+30-10-2020 17:45,CUST161,Female,New York,Clothing,19,277.28,5795.15,Yes
+31-10-2020 17:45,CUST111,Male,Germany,Fashion & Accessories,8,111.58,981.9,Yes
+01-11-2020 17:45,CUST257,Male,Japan,Electronics,14,214.11,4496.31,Yes
+02-11-2020 17:45,CUST68,Female,United States,Electronics,10,390.96,5864.4,Yes
+03-11-2020 17:45,CUST57,Male,United States,Electronics,20,362.65,10879.5,No
+04-11-2020 17:45,CUST119,Female,India,Home & Kitchen,13,31.83,620.68,No
+05-11-2020 17:45,CUST246,Male,Australia,Clothing,2,497.51,1492.53,Yes
+06-11-2020 17:45,CUST244,Male,Germany,Clothing,6,380.91,3428.19,No
+07-11-2020 17:45,CUST268,Male,Australia,Electronics,12,20.82,374.76,Yes
+08-11-2020 17:45,CUST219,Female,Canada,Clothing,3,482.43,2170.93,Yes
+09-11-2020 17:45,CUST184,Female,China,Electronics,7,297.67,3125.53,Yes
+10-11-2020 17:45,CUST154,Female,India,Home & Kitchen,20,112.53,3375.9,No
+11-11-2020 17:45,CUST215,Male,Brazil,Home & Kitchen,4,47.23,283.38,No
+12-11-2020 17:45,CUST70,Male,Australia,Fashion & Accessories,6,125.48,1129.32,Yes
+13-11-2020 17:45,CUST196,Male,China,Electronics,12,88.68,1596.24,Yes
+14-11-2020 17:45,CUST142,Male,New York,Fashion & Accessories,5,26.68,200.1,Yes
+15-11-2020 17:45,CUST205,Male,India,Home & Kitchen,20,163.04,4891.2,Yes
+16-11-2020 17:45,CUST122,Male,China,Fashion & Accessories,4,37.84,227.04,No
+17-11-2020 17:45,CUST65,Female,Canada,Clothing,2,43.61,130.83,No
+18-11-2020 17:45,CUST284,Female,India,Clothing,12,473.78,8528.04,No
+19-11-2020 17:45,CUST40,Male,New York,Electronics,6,286.81,2581.29,Yes
+20-11-2020 17:45,CUST36,Female,China,Clothing,16,211.89,5085.36,Yes
+21-11-2020 17:45,CUST28,Male,Brazil,Clothing,11,295.83,4881.19,Yes
+22-11-2020 17:45,CUST42,Male,Brazil,Electronics,16,203.43,4882.32,No
+23-11-2020 17:45,CUST248,Female,United States,Clothing,20,60.82,1824.6,Yes
+24-11-2020 17:45,CUST156,Male,New York,Electronics,2,470.37,1411.11,No
+25-11-2020 17:45,CUST155,Female,New York,Home & Kitchen,15,451.15,10150.88,Yes
+26-11-2020 17:45,CUST148,Female,Brazil,Clothing,15,17.6,396,No
+27-11-2020 17:45,CUST239,Male,Canada,Electronics,17,285.13,7270.82,No
+28-11-2020 17:45,CUST212,Female,New York,Home & Kitchen,8,422.78,5073.36,No
+29-11-2020 17:45,CUST55,Male,Canada,Clothing,12,94.06,1693.08,Yes
+30-11-2020 17:45,CUST41,Female,Australia,Home & Kitchen,20,222.78,6683.4,Yes
+01-12-2020 17:45,CUST31,Male,China,Clothing,8,195.58,2346.96,Yes
+02-12-2020 17:45,CUST36,Male,United States,Clothing,10,280.64,4209.6,No
+03-12-2020 17:45,CUST158,Male,Australia,Fashion & Accessories,15,55.34,1245.15,Yes
+04-12-2020 17:45,CUST48,Female,Japan,Fashion & Accessories,12,106.56,1918.08,Yes
+05-12-2020 17:45,CUST234,Female,China,Clothing,1,130.67,196,No
+06-12-2020 17:45,CUST14,Female,Italy,Home & Kitchen,18,347.62,9385.74,Yes
+07-12-2020 17:45,CUST87,Male,India,Clothing,13,302.82,5904.99,Yes
+08-12-2020 17:45,CUST289,Male,India,Fashion & Accessories,13,127.48,2485.86,Yes
+09-12-2020 17:45,CUST46,Male,India,Home & Kitchen,20,318.61,9558.3,Yes
+10-12-2020 17:45,CUST127,Female,France,Fashion & Accessories,14,435,9135,No
+11-12-2020 17:45,CUST276,Female,Germany,Clothing,10,485.18,7277.7,No
+12-12-2020 17:45,CUST47,Female,United States,Fashion & Accessories,20,323.15,9694.5,No
+13-12-2020 17:45,CUST196,Male,Italy,Home & Kitchen,1,374.64,561.96,No
+14-12-2020 17:45,CUST166,Female,Australia,Electronics,7,490.11,5146.15,Yes
+15-12-2020 17:45,CUST52,Female,India,Clothing,12,188.25,3388.5,Yes
+16-12-2020 17:45,CUST194,Female,China,Electronics,5,139.19,1043.93,No
+17-12-2020 17:45,CUST166,Female,United States,Fashion & Accessories,18,171.66,4634.82,Yes
+18-12-2020 17:45,CUST139,Female,Germany,Fashion & Accessories,3,415.06,1867.77,Yes
+19-12-2020 17:45,CUST278,Female,Canada,Home & Kitchen,4,193.58,1161.48,Yes
+20-12-2020 17:45,CUST205,Female,China,Fashion & Accessories,7,224.11,2353.15,Yes
+21-12-2020 17:45,CUST273,Male,Canada,Home & Kitchen,15,249.24,5607.9,Yes
+22-12-2020 17:45,CUST188,Female,Germany,Fashion & Accessories,10,58.26,873.9,No
+23-12-2020 17:45,CUST100,Male,Australia,Home & Kitchen,4,318.17,1909.02,No
+24-12-2020 17:45,CUST53,Female,China,Clothing,13,316.12,6164.34,No
+25-12-2020 17:45,CUST125,Female,India,Home & Kitchen,5,133.74,1003.05,Yes
+26-12-2020 17:45,CUST32,Male,Italy,Fashion & Accessories,11,275.56,4546.74,Yes
+27-12-2020 17:45,CUST112,Female,Germany,Fashion & Accessories,5,410.88,3081.6,Yes
+28-12-2020 17:45,CUST112,Female,Germany,Fashion & Accessories,8,292.44,3509.28,Yes
+29-12-2020 17:45,CUST121,Male,Brazil,Clothing,18,136.6,3688.2,Yes
+30-12-2020 17:45,CUST34,Female,India,Home & Kitchen,16,108.44,2602.56,Yes
+31-12-2020 17:45,CUST273,Male,China,Electronics,7,258.65,2715.82,No
+01-01-2021 17:45,CUST207,Female,Brazil,Clothing,1,20.97,16.78,Yes
+02-01-2021 17:45,CUST66,Female,United States,Home & Kitchen,8,323.07,2067.65,Yes
+03-01-2021 17:45,CUST163,Male,United States,Clothing,10,24.89,199.12,No
+04-01-2021 17:45,CUST158,Female,Canada,Fashion & Accessories,15,437.58,5250.96,No
+05-01-2021 17:45,CUST226,Male,Brazil,Fashion & Accessories,8,53.61,343.1,No
+06-01-2021 17:45,CUST73,Female,Brazil,Home & Kitchen,6,405.45,1946.16,Yes
+07-01-2021 17:45,CUST238,Male,Brazil,Electronics,2,479.49,767.18,No
+08-01-2021 17:45,CUST97,Male,United States,Home & Kitchen,12,410.8,3943.68,No
+09-01-2021 17:45,CUST272,Male,Brazil,Home & Kitchen,19,87.21,1325.59,Yes
+10-01-2021 17:45,CUST248,Male,China,Fashion & Accessories,18,124.33,1790.35,Yes
+11-01-2021 17:45,CUST71,Male,China,Fashion & Accessories,19,199.42,3031.18,Yes
+12-01-2021 17:45,CUST120,Male,Brazil,Home & Kitchen,20,198.25,3172,No
+13-01-2021 17:45,CUST217,Female,China,Clothing,3,452.58,1086.19,Yes
+14-01-2021 17:45,CUST247,Female,Australia,Home & Kitchen,10,16.26,130.08,No
+15-01-2021 17:45,CUST291,Female,Australia,Fashion & Accessories,1,229.65,183.72,No
+16-01-2021 17:45,CUST160,Male,Australia,Clothing,13,151.02,1570.61,No
+17-01-2021 17:45,CUST199,Male,Japan,Electronics,20,117.91,1886.56,No
+18-01-2021 17:45,CUST278,Male,Japan,Clothing,16,349.17,4469.38,No
+19-01-2021 17:45,CUST93,Male,Canada,Home & Kitchen,18,170.68,2457.79,Yes
+20-01-2021 17:45,CUST57,Female,Italy,Home & Kitchen,2,484.68,775.49,Yes
+21-01-2021 17:45,CUST264,Female,France,Clothing,12,304.69,2925.02,No
+22-01-2021 17:45,CUST109,Male,Canada,Fashion & Accessories,20,154.86,2477.76,Yes
+23-01-2021 17:45,CUST185,Female,Australia,Clothing,9,460.73,3317.26,No
+24-01-2021 17:45,CUST118,Male,Australia,Fashion & Accessories,19,182.5,2774,Yes
+25-01-2021 17:45,CUST26,Male,United States,Home & Kitchen,17,81.14,1103.5,Yes
+26-01-2021 17:45,CUST45,Male,Germany,Home & Kitchen,5,251.2,1004.8,No
+27-01-2021 17:45,CUST101,Female,New York,Home & Kitchen,3,452.54,1086.1,Yes
+28-01-2021 17:45,CUST34,Male,Brazil,Electronics,13,65.32,679.33,No
+29-01-2021 17:45,CUST261,Female,Italy,Electronics,16,309.06,3955.97,Yes
+30-01-2021 17:45,CUST27,Male,United States,Fashion & Accessories,8,490.19,3137.22,Yes
+31-01-2021 17:45,CUST55,Female,United States,Home & Kitchen,12,286.65,2751.84,No
+01-02-2021 17:45,CUST234,Male,New York,Clothing,19,188.11,2859.27,Yes
+02-02-2021 17:45,CUST294,Female,Brazil,Electronics,12,178.82,1716.67,Yes
+03-02-2021 17:45,CUST81,Female,Germany,Home & Kitchen,2,58.58,93.73,No
+04-02-2021 17:45,CUST212,Male,Australia,Fashion & Accessories,5,291.85,1167.4,Yes
+05-02-2021 17:45,CUST285,Male,Brazil,Fashion & Accessories,6,154.42,741.22,Yes
+06-02-2021 17:45,CUST169,Female,China,Home & Kitchen,16,440.64,5640.19,No
+07-02-2021 17:45,CUST130,Male,France,Electronics,16,384.44,4920.83,Yes
+08-02-2021 17:45,CUST200,Male,Australia,Fashion & Accessories,19,386.8,5879.36,No
+09-02-2021 17:45,CUST159,Male,France,Electronics,15,295.83,3549.96,No
+10-02-2021 17:45,CUST54,Female,Italy,Fashion & Accessories,15,82.32,987.84,No
+11-02-2021 17:45,CUST104,Male,Japan,Electronics,11,72.62,639.06,Yes
+12-02-2021 17:45,CUST57,Male,Canada,Home & Kitchen,16,243.68,3119.1,No
+13-02-2021 17:45,CUST116,Male,India,Home & Kitchen,11,222.26,1955.89,No
+14-02-2021 17:45,CUST19,Male,United States,Electronics,8,372.06,2381.18,Yes
+15-02-2021 17:45,CUST185,Female,Canada,Clothing,17,332.7,4524.72,Yes
+16-02-2021 17:45,CUST49,Female,Canada,Electronics,4,444.55,1422.56,No
+17-02-2021 17:45,CUST215,Female,United States,Fashion & Accessories,13,109.31,1136.82,Yes
+18-02-2021 17:45,CUST6,Female,Australia,Clothing,14,404.41,4529.39,No
+19-02-2021 17:45,CUST90,Male,Australia,Fashion & Accessories,2,338.36,541.38,Yes
+20-02-2021 17:45,CUST120,Male,Canada,Fashion & Accessories,5,429.63,1718.52,Yes
+21-02-2021 17:45,CUST244,Male,Australia,Home & Kitchen,6,285.6,1370.88,Yes
+22-02-2021 17:45,CUST10,Female,Canada,Electronics,8,148.24,948.74,Yes
+23-02-2021 17:45,CUST89,Male,France,Electronics,12,446.53,4286.69,No
+24-02-2021 17:45,CUST211,Male,China,Electronics,18,149.65,2154.96,No
+25-02-2021 17:45,CUST210,Female,China,Electronics,8,148.86,952.7,No
+26-02-2021 17:45,CUST246,Female,Brazil,Home & Kitchen,5,472.48,1889.92,No
+27-02-2021 17:45,CUST42,Female,Italy,Fashion & Accessories,10,276.75,2214,No
+28-02-2021 17:45,CUST120,Female,India,Electronics,18,113.5,1634.4,Yes
+01-03-2021 17:45,CUST269,Female,New York,Electronics,4,389.08,1711.95,No
+02-03-2021 17:45,CUST31,Female,Germany,Fashion & Accessories,3,321.2,1059.96,No
+03-03-2021 17:45,CUST219,Male,Germany,Electronics,7,327.59,2522.44,No
+04-03-2021 17:45,CUST113,Female,Australia,Electronics,16,97.71,1719.7,Yes
+05-03-2021 17:45,CUST157,Female,United States,Clothing,18,41.98,831.2,Yes
+06-03-2021 17:45,CUST21,Male,New York,Home & Kitchen,20,252.2,5548.4,Yes
+07-03-2021 17:45,CUST133,Male,Canada,Home & Kitchen,19,59.66,1246.89,Yes
+08-03-2021 17:45,CUST24,Female,Germany,Fashion & Accessories,20,223.64,4920.08,Yes
+09-03-2021 17:45,CUST206,Male,India,Electronics,8,87.72,771.94,No
+10-03-2021 17:45,CUST133,Female,France,Electronics,11,451.97,5468.84,Yes
+11-03-2021 17:45,CUST55,Female,Germany,Electronics,20,430.88,9479.36,Yes
+12-03-2021 17:45,CUST244,Male,Canada,Home & Kitchen,13,281.79,4029.6,Yes
+13-03-2021 17:45,CUST111,Male,India,Electronics,5,64.68,355.74,Yes
+14-03-2021 17:45,CUST122,Female,Canada,Clothing,12,64.82,855.62,Yes
+15-03-2021 17:45,CUST101,Female,France,Clothing,15,128.72,2123.88,Yes
+16-03-2021 17:45,CUST98,Male,Australia,Home & Kitchen,7,456.8,3517.36,Yes
+17-03-2021 17:45,CUST177,Male,India,Fashion & Accessories,13,384.37,5496.49,No
+18-03-2021 17:45,CUST22,Male,France,Electronics,2,128.75,283.25,Yes
+19-03-2021 17:45,CUST94,Female,United States,Fashion & Accessories,5,458.47,2521.59,Yes
+20-03-2021 17:45,CUST87,Female,Canada,Home & Kitchen,19,76.72,1603.45,No
+21-03-2021 17:45,CUST115,Female,China,Electronics,11,260.81,3155.8,No
+22-03-2021 17:45,CUST283,Male,Italy,Fashion & Accessories,19,95.91,2004.52,No
+23-03-2021 17:45,CUST31,Female,France,Electronics,12,70.34,928.49,Yes
+24-03-2021 17:45,CUST268,Female,India,Clothing,6,301.01,1986.67,No
+25-03-2021 17:45,CUST182,Male,Italy,Home & Kitchen,5,406.56,2236.08,No
+26-03-2021 17:45,CUST155,Male,Italy,Clothing,17,85.52,1599.22,Yes
+27-03-2021 17:45,CUST40,Male,India,Electronics,16,339.11,5968.34,Yes
+28-03-2021 17:45,CUST125,Female,China,Fashion & Accessories,18,133.83,2649.83,Yes
+29-03-2021 17:45,CUST230,Female,China,Home & Kitchen,20,160,3520,Yes
+30-03-2021 17:45,CUST186,Male,Brazil,Clothing,17,211.92,3962.9,No
+31-03-2021 17:45,CUST221,Female,Brazil,Home & Kitchen,13,16.45,235.24,No
+01-04-2021 17:45,CUST279,Male,Japan,Fashion & Accessories,12,108.97,1307.64,No
+02-04-2021 17:45,CUST136,Female,India,Fashion & Accessories,14,373.36,5227.04,Yes
+03-04-2021 17:45,CUST114,Male,Canada,Home & Kitchen,4,35.46,141.84,No
+04-04-2021 17:45,CUST111,Female,Italy,Fashion & Accessories,7,498.73,3491.11,No
+05-04-2021 17:45,CUST81,Male,China,Home & Kitchen,9,319.35,2874.15,No
+06-04-2021 17:45,CUST198,Male,Italy,Clothing,1,405.05,405.05,No
+07-04-2021 17:45,CUST194,Male,Japan,Clothing,16,295.35,4725.6,No
+08-04-2021 17:45,CUST124,Female,Japan,Fashion & Accessories,5,144.14,720.7,No
+09-04-2021 17:45,CUST271,Female,Brazil,Electronics,16,107.63,1722.08,Yes
+10-04-2021 17:45,CUST122,Male,Italy,Electronics,1,250.07,250.07,No
+11-04-2021 17:45,CUST295,Female,Australia,Clothing,9,316.55,2848.95,Yes
+12-04-2021 17:45,CUST71,Male,Germany,Clothing,2,408.47,816.94,Yes
+13-04-2021 17:45,CUST177,Female,Japan,Clothing,3,316.5,949.5,Yes
+14-04-2021 17:45,CUST51,Female,United States,Home & Kitchen,3,157.9,473.7,Yes
+15-04-2021 17:45,CUST168,Female,Japan,Clothing,6,133.4,800.4,No
+16-04-2021 17:45,CUST62,Male,New York,Clothing,10,370.19,3701.9,No
+17-04-2021 17:45,CUST195,Male,Brazil,Clothing,7,457.79,3204.53,No
+18-04-2021 17:45,CUST213,Male,Italy,Home & Kitchen,19,493.41,9374.79,No
+19-04-2021 17:45,CUST248,Female,Brazil,Clothing,4,414.45,1657.8,No
+20-04-2021 17:45,CUST201,Male,New York,Fashion & Accessories,5,51.2,256,Yes
+21-04-2021 17:45,CUST33,Female,India,Home & Kitchen,10,212.96,2129.6,No
+22-04-2021 17:45,CUST261,Male,Australia,Home & Kitchen,2,92.45,184.9,No
+23-04-2021 17:45,CUST133,Female,Australia,Clothing,3,83.71,251.13,No
+24-04-2021 17:45,CUST208,Male,Italy,Fashion & Accessories,4,454.09,1816.36,No
+25-04-2021 17:45,CUST182,Female,Australia,Fashion & Accessories,2,368.43,736.86,Yes
+26-04-2021 17:45,CUST42,Female,Germany,Home & Kitchen,11,377.93,4157.23,Yes
+27-04-2021 17:45,CUST236,Male,China,Electronics,14,336.89,4716.46,Yes
+28-04-2021 17:45,CUST42,Female,India,Clothing,7,307.88,2155.16,Yes
+29-04-2021 17:45,CUST297,Male,Japan,Clothing,8,119.63,957.04,No
+30-04-2021 17:45,CUST118,Female,Brazil,Electronics,14,376.94,5277.16,Yes
+01-05-2021 17:45,CUST132,Female,Australia,Clothing,3,131.18,393.54,Yes
+02-05-2021 17:45,CUST66,Female,Germany,Fashion & Accessories,19,227.09,4314.71,No
+03-05-2021 17:45,CUST18,Male,Brazil,Electronics,2,118.86,237.72,No
+04-05-2021 17:45,CUST298,Male,United States,Fashion & Accessories,8,181.45,1451.6,Yes
+05-05-2021 17:45,CUST151,Male,Australia,Home & Kitchen,8,436.34,3490.72,No
+06-05-2021 17:45,CUST10,Female,Italy,Electronics,8,297.37,2378.96,No
+07-05-2021 17:45,CUST27,Male,Australia,Home & Kitchen,11,467.02,5137.22,Yes
+08-05-2021 17:45,CUST139,Male,Germany,Fashion & Accessories,10,271.09,2710.9,No
+09-05-2021 17:45,CUST159,Female,Japan,Home & Kitchen,3,253.34,760.02,No
+10-05-2021 17:45,CUST205,Male,Brazil,Electronics,11,82.99,912.89,Yes
+11-05-2021 17:45,CUST175,Female,Japan,Electronics,15,201.34,3020.1,No
+12-05-2021 17:45,CUST153,Female,New York,Clothing,8,311.01,2488.08,No
+13-05-2021 17:45,CUST52,Male,Italy,Fashion & Accessories,1,316.61,316.61,Yes
+14-05-2021 17:45,CUST299,Female,Italy,Home & Kitchen,16,112.56,1800.96,Yes
+15-05-2021 17:45,CUST175,Male,Canada,Home & Kitchen,20,337.53,6750.6,No
+16-05-2021 17:45,CUST122,Female,Brazil,Electronics,20,39.72,794.4,Yes
+17-05-2021 17:45,CUST53,Female,Australia,Fashion & Accessories,1,39.68,39.68,No
+18-05-2021 17:45,CUST227,Female,Brazil,Home & Kitchen,7,384.06,2688.42,Yes
+19-05-2021 17:45,CUST1,Female,Germany,Home & Kitchen,16,261.65,4186.4,Yes
+20-05-2021 17:45,CUST163,Female,Brazil,Clothing,15,189.45,2841.75,Yes
+21-05-2021 17:45,CUST158,Female,Germany,Clothing,17,251.12,4269.04,Yes
+22-05-2021 17:45,CUST81,Female,France,Home & Kitchen,14,424.52,5943.28,Yes
+23-05-2021 17:45,CUST257,Female,Japan,Home & Kitchen,8,41.24,329.92,No
+24-05-2021 17:45,CUST241,Female,Germany,Home & Kitchen,11,52.49,577.39,Yes
+25-05-2021 17:45,CUST143,Male,Australia,Electronics,12,362.58,4350.96,Yes
+26-05-2021 17:45,CUST299,Male,France,Electronics,20,155.98,3119.6,Yes
+27-05-2021 17:45,CUST192,Male,Brazil,Electronics,16,186.92,2990.72,Yes
+28-05-2021 17:45,CUST265,Female,India,Fashion & Accessories,1,255.49,255.49,Yes
+29-05-2021 17:45,CUST233,Female,China,Electronics,18,48.29,869.22,No
+30-05-2021 17:45,CUST61,Male,Australia,Clothing,2,240.75,481.5,No
+31-05-2021 17:45,CUST33,Male,Germany,Fashion & Accessories,2,377.48,754.96,Yes
+01-06-2021 17:45,CUST49,Male,New York,Fashion & Accessories,1,333.88,400.66,No
+02-06-2021 17:45,CUST270,Female,France,Home & Kitchen,10,303.59,3643.08,Yes
+03-06-2021 17:45,CUST215,Male,Germany,Fashion & Accessories,20,94.27,2262.48,Yes
+04-06-2021 17:45,CUST121,Female,India,Fashion & Accessories,14,398.73,6698.66,No
+05-06-2021 17:45,CUST23,Female,India,Clothing,4,373.39,1792.27,No
+06-06-2021 17:45,CUST189,Male,China,Clothing,12,453.61,6531.98,No
+07-06-2021 17:45,CUST270,Female,France,Fashion & Accessories,16,182.07,3495.74,Yes
+08-06-2021 17:45,CUST166,Male,China,Electronics,14,393.36,6608.45,No
+09-06-2021 17:45,CUST147,Male,Australia,Electronics,15,358.29,6449.22,No
+10-06-2021 17:45,CUST102,Female,New York,Home & Kitchen,15,13.59,244.62,Yes
+11-06-2021 17:45,CUST55,Male,New York,Clothing,9,37.8,408.24,Yes
+12-06-2021 17:45,CUST257,Female,Australia,Fashion & Accessories,17,184.41,3761.96,Yes
+13-06-2021 17:45,CUST234,Female,India,Home & Kitchen,3,121.6,437.76,Yes
+14-06-2021 17:45,CUST247,Female,Brazil,Fashion & Accessories,17,247.16,5042.06,Yes
+15-06-2021 17:45,CUST178,Female,Canada,Electronics,17,94.65,1930.86,No
+16-06-2021 17:45,CUST294,Female,France,Home & Kitchen,19,431.95,9848.46,Yes
+17-06-2021 17:45,CUST169,Male,China,Home & Kitchen,10,418.51,5022.12,Yes
+18-06-2021 17:45,CUST176,Female,Canada,Fashion & Accessories,15,60.67,1092.06,Yes
+19-06-2021 17:45,CUST20,Female,Brazil,Clothing,11,54.76,722.83,Yes
+20-06-2021 17:45,CUST91,Female,China,Home & Kitchen,14,346.72,5824.9,Yes
+21-06-2021 17:45,CUST1,Female,France,Fashion & Accessories,10,28.51,342.12,Yes
+22-06-2021 17:45,CUST59,Male,United States,Electronics,1,357.83,429.4,No
+23-06-2021 17:45,CUST145,Female,Brazil,Electronics,11,115.28,1521.7,No
+24-06-2021 17:45,CUST10,Male,Italy,Home & Kitchen,9,314.24,3393.79,No
+25-06-2021 17:45,CUST222,Male,United States,Clothing,18,305.77,6604.63,Yes
+26-06-2021 17:45,CUST107,Female,France,Clothing,10,262.44,3149.28,Yes
+27-06-2021 17:45,CUST231,Male,Japan,Home & Kitchen,17,100.98,2059.99,No
+28-06-2021 17:45,CUST127,Female,Japan,Home & Kitchen,11,188.42,2487.14,No
+29-06-2021 17:45,CUST24,Male,Brazil,Electronics,4,147.04,705.79,No
+30-06-2021 17:45,CUST250,Male,Australia,Clothing,4,175.55,842.64,Yes
+01-07-2021 17:45,CUST142,Male,Japan,Clothing,13,321.2,5428.28,No
+02-07-2021 17:45,CUST251,Male,Italy,Electronics,16,202.17,4205.14,Yes
+03-07-2021 17:45,CUST3,Male,India,Fashion & Accessories,19,252.06,6225.88,No
+04-07-2021 17:45,CUST272,Female,Japan,Fashion & Accessories,10,445.41,5790.33,Yes
+05-07-2021 17:45,CUST208,Female,Canada,Fashion & Accessories,16,93.59,1946.67,No
+06-07-2021 17:45,CUST54,Female,Japan,Electronics,4,151.99,790.35,No
+07-07-2021 17:45,CUST106,Male,New York,Home & Kitchen,3,165.46,645.29,Yes
+08-07-2021 17:45,CUST299,Male,Japan,Electronics,13,184.63,3120.25,Yes
+09-07-2021 17:45,CUST56,Male,Canada,Electronics,6,253.77,1979.41,No
+10-07-2021 17:45,CUST166,Male,Canada,Electronics,10,28.8,374.4,No
+11-07-2021 17:45,CUST69,Female,France,Electronics,4,211.15,1097.98,No
+12-07-2021 17:45,CUST193,Male,Italy,Fashion & Accessories,15,130.16,2538.12,Yes
+13-07-2021 17:45,CUST269,Male,India,Fashion & Accessories,6,307.23,2396.39,No
+14-07-2021 17:45,CUST286,Male,India,Clothing,13,262.59,4437.77,No
+15-07-2021 17:45,CUST122,Female,Germany,Clothing,4,115.16,598.83,Yes
+16-07-2021 17:45,CUST143,Male,Australia,Fashion & Accessories,8,406.75,4230.2,Yes
+17-07-2021 17:45,CUST100,Male,Canada,Clothing,12,193.57,3019.69,Yes
+18-07-2021 17:45,CUST128,Female,Germany,Electronics,7,125.03,1137.77,No
+19-07-2021 17:45,CUST165,Male,France,Clothing,2,21.03,54.68,Yes
+20-07-2021 17:45,CUST6,Male,Canada,Home & Kitchen,4,154.95,805.74,No
+21-07-2021 17:45,CUST127,Female,Australia,Electronics,20,301.33,7834.58,No
+22-07-2021 17:45,CUST236,Female,Germany,Electronics,14,460.54,8381.83,No
+23-07-2021 17:45,CUST297,Male,New York,Electronics,6,393.4,3068.52,Yes
+24-07-2021 17:45,CUST84,Male,France,Fashion & Accessories,10,225.12,2926.56,Yes
+25-07-2021 17:45,CUST113,Male,Brazil,Clothing,11,379,5419.7,No
+26-07-2021 17:45,CUST255,Male,Brazil,Clothing,7,343.38,3124.76,Yes
+27-07-2021 17:45,CUST231,Female,Australia,Fashion & Accessories,7,349.8,3183.18,Yes
+28-07-2021 17:45,CUST20,Female,Italy,Clothing,6,51.91,404.9,No
+29-07-2021 17:45,CUST51,Male,Germany,Electronics,3,394.16,1537.22,Yes
+30-07-2021 17:45,CUST107,Female,New York,Fashion & Accessories,9,197.39,2309.46,No
+31-07-2021 17:45,CUST35,Male,France,Home & Kitchen,5,494.88,3216.72,Yes
+01-08-2021 17:45,CUST50,Male,France,Electronics,4,222.7,1068.96,Yes
+02-08-2021 17:45,CUST232,Female,Japan,Clothing,3,205.31,739.12,No
+03-08-2021 17:45,CUST51,Female,New York,Fashion & Accessories,1,383.08,459.7,No
+04-08-2021 17:45,CUST34,Female,India,Fashion & Accessories,7,398.07,3343.79,Yes
+05-08-2021 17:45,CUST182,Female,China,Home & Kitchen,15,402.35,7242.3,Yes
+06-08-2021 17:45,CUST34,Male,India,Electronics,15,339.91,6118.38,No
+07-08-2021 17:45,CUST287,Male,Australia,Fashion & Accessories,5,370.51,2223.06,No
+08-08-2021 17:45,CUST89,Male,France,Home & Kitchen,11,77.3,1020.36,Yes
+09-08-2021 17:45,CUST236,Female,Italy,Home & Kitchen,18,302.02,6523.63,No
+10-08-2021 17:45,CUST31,Female,Canada,Electronics,16,146.62,2815.1,Yes
+11-08-2021 17:45,CUST34,Male,Germany,Electronics,4,129.5,621.6,No
+12-08-2021 17:45,CUST277,Female,Italy,Fashion & Accessories,8,296.33,2844.77,Yes
+13-08-2021 17:45,CUST194,Female,France,Home & Kitchen,5,98.36,590.16,Yes
+14-08-2021 17:45,CUST278,Male,France,Electronics,4,50.7,243.36,Yes
+15-08-2021 17:45,CUST10,Female,Australia,Fashion & Accessories,19,176.78,4030.58,Yes
+16-08-2021 17:45,CUST44,Male,United States,Fashion & Accessories,20,427.77,10266.48,Yes
+17-08-2021 17:45,CUST28,Male,Germany,Electronics,17,23.79,485.32,Yes
+18-08-2021 17:45,CUST172,Female,France,Clothing,20,240.8,5779.2,No
+19-08-2021 17:45,CUST45,Female,India,Electronics,19,107.73,2456.24,No
+20-08-2021 17:45,CUST168,Female,France,Electronics,2,347.98,835.15,Yes
+21-08-2021 17:45,CUST220,Male,China,Fashion & Accessories,7,22.13,185.89,No
+22-08-2021 17:45,CUST290,Female,New York,Electronics,8,447.42,4295.23,No
+23-08-2021 17:45,CUST240,Male,Japan,Home & Kitchen,10,306.88,3682.56,No
+24-08-2021 17:45,CUST87,Female,United States,Electronics,11,106.01,1399.33,Yes
+25-08-2021 17:45,CUST70,Female,India,Home & Kitchen,7,126.25,1060.5,Yes
+26-08-2021 17:45,CUST6,Male,Brazil,Electronics,8,63.05,605.28,Yes
+27-08-2021 17:45,CUST237,Male,United States,Clothing,10,450.53,5406.36,No
+28-08-2021 17:45,CUST278,Female,China,Electronics,5,236.02,1416.12,Yes
+29-08-2021 17:45,CUST288,Male,France,Electronics,11,267.47,3530.6,No
+30-08-2021 17:45,CUST283,Female,United States,Home & Kitchen,14,394.33,6624.74,Yes
+31-08-2021 17:45,CUST250,Male,Germany,Fashion & Accessories,12,355.05,5112.72,No
+01-09-2021 17:45,CUST233,Male,China,Clothing,4,490.1,2156.44,No
+02-09-2021 17:45,CUST282,Male,Canada,Electronics,10,382.05,4202.55,Yes
+03-09-2021 17:45,CUST18,Female,China,Clothing,8,217.59,1914.79,Yes
+04-09-2021 17:45,CUST153,Male,United States,Clothing,9,128.43,1271.46,Yes
+05-09-2021 17:45,CUST58,Male,India,Home & Kitchen,7,75.32,579.96,Yes
+06-09-2021 17:45,CUST219,Male,Japan,Clothing,20,144.02,3168.44,No
+07-09-2021 17:45,CUST227,Female,Australia,Fashion & Accessories,14,343.42,5288.67,No
+08-09-2021 17:45,CUST189,Female,Germany,Electronics,11,368.99,4464.78,Yes
+09-09-2021 17:45,CUST26,Male,China,Home & Kitchen,18,489.91,9700.22,Yes
+10-09-2021 17:45,CUST264,Female,Canada,Fashion & Accessories,18,114.7,2271.06,No
+11-09-2021 17:45,CUST100,Male,Brazil,Clothing,1,234.88,258.37,Yes
+12-09-2021 17:45,CUST209,Male,France,Home & Kitchen,12,187.26,2471.83,Yes
+13-09-2021 17:45,CUST67,Male,Japan,Electronics,8,284.5,2503.6,No
+14-09-2021 17:45,CUST106,Male,Brazil,Clothing,16,252.48,4443.65,Yes
+15-09-2021 17:45,CUST235,Male,Germany,Fashion & Accessories,2,73.93,162.65,Yes
+16-09-2021 17:45,CUST22,Female,New York,Fashion & Accessories,1,445.65,490.22,No
+17-09-2021 17:45,CUST105,Male,United States,Fashion & Accessories,1,30.84,33.92,Yes
+18-09-2021 17:45,CUST216,Female,India,Fashion & Accessories,5,392.94,2161.17,No
+19-09-2021 17:45,CUST169,Male,New York,Fashion & Accessories,4,195.54,860.38,Yes
+20-09-2021 17:45,CUST1,Male,New York,Fashion & Accessories,8,471.46,4148.85,No
+21-09-2021 17:45,CUST150,Female,Brazil,Electronics,2,232.83,512.23,Yes
+22-09-2021 17:45,CUST71,Female,Australia,Electronics,12,254.98,3365.74,No
+23-09-2021 17:45,CUST161,Male,New York,Fashion & Accessories,14,477.59,7354.89,No
+24-09-2021 17:45,CUST127,Female,Brazil,Clothing,20,157,3454,No
+25-09-2021 17:45,CUST80,Female,France,Electronics,19,182.21,3808.19,No
+26-09-2021 17:45,CUST27,Female,Japan,Electronics,8,452.48,3981.82,Yes
+27-09-2021 17:45,CUST48,Male,New York,Fashion & Accessories,4,38.9,171.16,Yes
+28-09-2021 17:45,CUST33,Female,Germany,Fashion & Accessories,13,81.58,1166.59,No
+29-09-2021 17:45,CUST65,Female,Japan,Home & Kitchen,6,157.23,1037.72,No
+30-09-2021 17:45,CUST192,Male,India,Clothing,1,309.56,340.52,Yes
+01-10-2021 17:45,CUST72,Female,Canada,Clothing,16,32.73,576.05,Yes
+02-10-2021 17:45,CUST44,Male,Brazil,Home & Kitchen,5,13.52,74.36,Yes
+03-10-2021 17:45,CUST187,Female,Canada,Fashion & Accessories,20,270.21,5944.62,No
+04-10-2021 17:45,CUST44,Female,Australia,Home & Kitchen,17,10.46,195.6,Yes
+05-10-2021 17:45,CUST86,Female,New York,Electronics,11,157.24,1902.6,No
+06-10-2021 17:45,CUST101,Male,India,Fashion & Accessories,19,105.31,2200.98,Yes
+07-10-2021 17:45,CUST9,Male,France,Clothing,12,29.8,393.36,No
+08-10-2021 17:45,CUST211,Female,Canada,Fashion & Accessories,14,316.83,4879.18,Yes
+09-10-2021 17:45,CUST251,Female,New York,Home & Kitchen,10,153.31,1686.41,No
+10-10-2021 17:45,CUST185,Female,Germany,Clothing,18,350.21,6934.16,Yes
+11-10-2021 17:45,CUST285,Female,Canada,Home & Kitchen,1,436.25,479.88,Yes
+12-10-2021 17:45,CUST112,Female,India,Electronics,18,356.63,7061.27,Yes
+13-10-2021 17:45,CUST131,Female,Germany,Clothing,20,187.42,4123.24,No
+14-10-2021 17:45,CUST53,Male,New York,Electronics,10,124.85,1373.35,Yes
+15-10-2021 17:45,CUST208,Male,Australia,Clothing,2,165.91,365,Yes
+16-10-2021 17:45,CUST129,Male,United States,Fashion & Accessories,10,354.99,3904.89,No
+17-10-2021 17:45,CUST50,Male,France,Home & Kitchen,11,154.35,1867.63,Yes
+18-10-2021 17:45,CUST200,Female,Germany,Electronics,11,56.25,680.62,Yes
+19-10-2021 17:45,CUST248,Male,United States,Clothing,2,314.6,692.12,Yes
+20-10-2021 17:45,CUST229,Male,Canada,Fashion & Accessories,12,162.42,2143.94,Yes
+21-10-2021 17:45,CUST297,Female,China,Fashion & Accessories,5,122.44,673.42,Yes
+22-10-2021 17:45,CUST245,Female,India,Home & Kitchen,7,261.35,2012.4,No
+23-10-2021 17:45,CUST277,Male,China,Electronics,5,162.5,893.75,Yes
+24-10-2021 17:45,CUST256,Female,Germany,Electronics,3,140.72,464.38,No
+25-10-2021 17:45,CUST38,Male,Japan,Electronics,4,99.25,436.7,No
+26-10-2021 17:45,CUST55,Male,Brazil,Electronics,11,436.05,5276.21,No
+27-10-2021 17:45,CUST210,Female,Canada,Clothing,3,320.69,1058.28,Yes
+28-10-2021 17:45,CUST127,Male,Japan,Clothing,19,140.3,2932.27,No
+29-10-2021 17:45,CUST147,Male,Germany,Home & Kitchen,4,309.28,1360.83,No
+30-10-2021 17:45,CUST249,Male,Japan,Electronics,7,382.28,2943.56,No
+31-10-2021 17:45,CUST173,Male,United States,Clothing,6,408.45,2695.77,Yes
+01-11-2021 17:45,CUST178,Male,United States,Home & Kitchen,3,260.41,1171.85,Yes
+02-11-2021 17:45,CUST153,Female,China,Home & Kitchen,10,91.74,1376.1,Yes
+03-11-2021 17:45,CUST244,Female,Japan,Home & Kitchen,18,161.34,4356.18,No
+04-11-2021 17:45,CUST238,Female,Canada,Fashion & Accessories,11,160.35,2645.77,No
+05-11-2021 17:45,CUST255,Male,Germany,Fashion & Accessories,7,387.18,4065.39,Yes
+06-11-2021 17:45,CUST236,Female,France,Clothing,10,71.39,1070.85,No
+07-11-2021 17:45,CUST170,Male,Canada,Clothing,6,93.98,845.82,Yes
+08-11-2021 17:45,CUST36,Female,New York,Electronics,17,49.74,1268.37,Yes
+09-11-2021 17:45,CUST221,Female,China,Clothing,12,234.21,4215.78,Yes
+10-11-2021 17:45,CUST202,Female,Japan,Fashion & Accessories,9,170.23,2298.11,Yes
+11-11-2021 17:45,CUST217,Female,Germany,Home & Kitchen,8,346.03,4152.36,Yes
+12-11-2021 17:45,CUST269,Female,Canada,Home & Kitchen,11,388.42,6408.93,Yes
+13-11-2021 17:45,CUST179,Female,Canada,Home & Kitchen,19,107.81,3072.59,No
+14-11-2021 17:45,CUST161,Female,India,Home & Kitchen,15,344.76,7757.1,No
+15-11-2021 17:45,CUST14,Male,India,Home & Kitchen,1,262.47,393.71,Yes
+16-11-2021 17:45,CUST119,Female,Germany,Clothing,19,84.58,2410.53,No
+17-11-2021 17:45,CUST40,Male,Japan,Clothing,10,455.45,6831.75,No
+18-11-2021 17:45,CUST162,Male,Australia,Home & Kitchen,10,468.75,7031.25,No
+19-11-2021 17:45,CUST282,Female,Germany,Electronics,8,69.38,832.56,Yes
+20-11-2021 17:45,CUST70,Male,Japan,Electronics,6,122.98,1106.82,Yes
+21-11-2021 17:45,CUST242,Male,Japan,Clothing,5,52.27,392.03,Yes
+22-11-2021 17:45,CUST100,Male,New York,Clothing,13,309.97,6044.42,No
+23-11-2021 17:45,CUST65,Female,India,Fashion & Accessories,9,399.75,5396.62,No
+24-11-2021 17:45,CUST268,Female,Japan,Clothing,16,208.45,5002.8,No
+25-11-2021 17:45,CUST50,Female,China,Fashion & Accessories,16,362.94,8710.56,No
+26-11-2021 17:45,CUST118,Male,France,Clothing,6,78.41,705.69,No
+27-11-2021 17:45,CUST93,Female,Canada,Home & Kitchen,2,227.4,682.2,No
+28-11-2021 17:45,CUST168,Male,New York,Clothing,12,122.26,2200.68,Yes
+29-11-2021 17:45,CUST133,Male,Italy,Fashion & Accessories,20,239.89,7196.7,No
+30-11-2021 17:45,CUST155,Female,United States,Electronics,20,26.13,783.9,No
+01-12-2021 17:45,CUST282,Male,United States,Home & Kitchen,10,316.17,4742.55,Yes
+02-12-2021 17:45,CUST78,Female,Italy,Fashion & Accessories,14,45.39,953.19,Yes
+03-12-2021 17:45,CUST101,Female,New York,Electronics,2,387.21,1161.63,Yes
+04-12-2021 17:45,CUST129,Male,New York,Clothing,8,437.42,5249.04,Yes
+05-12-2021 17:45,CUST232,Male,Brazil,Electronics,6,367.46,3307.14,Yes
+06-12-2021 17:45,CUST238,Female,New York,Clothing,13,419.44,8179.08,Yes
+07-12-2021 17:45,CUST18,Female,Brazil,Clothing,7,28.89,303.35,No
+08-12-2021 17:45,CUST67,Male,New York,Clothing,20,214.21,6426.3,Yes
+09-12-2021 17:45,CUST171,Male,Brazil,Fashion & Accessories,5,276.95,2077.12,No
+10-12-2021 17:45,CUST297,Female,New York,Home & Kitchen,17,286.23,7298.86,No
+11-12-2021 17:45,CUST21,Male,Germany,Home & Kitchen,5,416.96,3127.2,No
+12-12-2021 17:45,CUST116,Female,Japan,Home & Kitchen,11,488.2,8055.3,No
+13-12-2021 17:45,CUST81,Female,Japan,Home & Kitchen,1,495.02,742.53,Yes
+14-12-2021 17:45,CUST129,Male,Canada,Home & Kitchen,7,81.78,858.69,Yes
+15-12-2021 17:45,CUST296,Female,New York,Home & Kitchen,18,265.78,7176.06,Yes
+16-12-2021 17:45,CUST266,Female,Japan,Home & Kitchen,15,440.16,9903.6,Yes
+17-12-2021 17:45,CUST207,Female,Japan,Fashion & Accessories,1,59.64,89.46,No
+18-12-2021 17:45,CUST9,Female,Japan,Home & Kitchen,11,254.77,4203.7,No
+19-12-2021 17:45,CUST68,Male,Italy,Fashion & Accessories,17,363.32,9264.66,No
+20-12-2021 17:45,CUST216,Female,New York,Home & Kitchen,6,69.07,621.63,No
+21-12-2021 17:45,CUST170,Male,New York,Home & Kitchen,8,174.1,2089.2,No
+22-12-2021 17:45,CUST223,Female,United States,Clothing,14,195.4,4103.4,Yes
+23-12-2021 17:45,CUST81,Male,India,Fashion & Accessories,12,380.25,6844.5,No
+24-12-2021 17:45,CUST152,Female,Germany,Home & Kitchen,12,204.58,3682.44,No
+25-12-2021 17:45,CUST210,Female,Italy,Clothing,4,239.22,1435.32,No
+26-12-2021 17:45,CUST138,Male,Germany,Home & Kitchen,12,35.54,639.72,No
+27-12-2021 17:45,CUST50,Male,Canada,Electronics,14,216.92,4555.32,No
+28-12-2021 17:45,CUST168,Male,United States,Electronics,18,65.87,1778.49,Yes
+29-12-2021 17:45,CUST270,Female,Germany,Fashion & Accessories,2,126.58,379.74,No
+30-12-2021 17:45,CUST242,Male,India,Clothing,1,202.33,303.5,Yes
+31-12-2021 17:45,CUST246,Male,China,Electronics,9,200.6,2708.1,No
+01-01-2022 17:45,CUST26,Male,France,Clothing,13,226.76,2358.3,No
+02-01-2022 17:45,CUST5,Male,Germany,Fashion & Accessories,8,274.15,1754.56,Yes
+03-01-2022 17:45,CUST163,Male,China,Fashion & Accessories,10,410.05,3280.4,No
+04-01-2022 17:45,CUST245,Male,Australia,Clothing,7,398.32,2230.59,No
+05-01-2022 17:45,CUST85,Female,India,Clothing,1,53.53,42.82,Yes
+06-01-2022 17:45,CUST224,Female,China,Home & Kitchen,8,263.64,1687.3,No
+07-01-2022 17:45,CUST249,Male,Japan,Fashion & Accessories,13,127.24,1323.3,No
+08-01-2022 17:45,CUST249,Male,New York,Fashion & Accessories,8,179.42,1148.29,Yes
+09-01-2022 17:45,CUST283,Male,New York,Fashion & Accessories,8,152.32,974.85,Yes
+10-01-2022 17:45,CUST255,Female,France,Clothing,8,105.77,676.93,No
+11-01-2022 17:45,CUST46,Male,United States,Home & Kitchen,5,490.26,1961.04,Yes
+12-01-2022 17:45,CUST195,Female,Canada,Fashion & Accessories,15,234.53,2814.36,Yes
+13-01-2022 17:45,CUST134,Female,Germany,Home & Kitchen,9,290.05,2088.36,Yes
+14-01-2022 17:45,CUST281,Male,France,Home & Kitchen,17,482.99,6568.66,No
+15-01-2022 17:45,CUST110,Female,Japan,Electronics,17,34.12,464.03,No
+16-01-2022 17:45,CUST264,Male,New York,Fashion & Accessories,4,281.16,899.71,Yes
+17-01-2022 17:45,CUST76,Male,Brazil,Fashion & Accessories,19,387.52,5890.3,No
+18-01-2022 17:45,CUST278,Male,France,Fashion & Accessories,18,204.39,2943.22,No
+19-01-2022 17:45,CUST14,Female,Germany,Fashion & Accessories,16,129.89,1662.59,Yes
+20-01-2022 17:45,CUST19,Male,Italy,Fashion & Accessories,14,42.16,472.19,Yes
+21-01-2022 17:45,CUST206,Male,Australia,Home & Kitchen,18,50.56,728.06,Yes
+22-01-2022 17:45,CUST239,Female,Australia,Electronics,15,80.87,970.44,No
+23-01-2022 17:45,CUST250,Female,India,Fashion & Accessories,2,112,179.2,Yes
+24-01-2022 17:45,CUST149,Male,Japan,Electronics,2,463.14,741.02,No
+25-01-2022 17:45,CUST101,Female,Australia,Clothing,6,441.34,2118.43,No
+26-01-2022 17:45,CUST274,Male,United States,Clothing,9,130.91,942.55,Yes
+27-01-2022 17:45,CUST13,Female,India,Clothing,11,444.43,3910.98,Yes
+28-01-2022 17:45,CUST249,Female,Canada,Clothing,14,290.74,3256.29,No
+29-01-2022 17:45,CUST221,Female,France,Electronics,20,335.88,5374.08,No
+30-01-2022 17:45,CUST218,Female,Canada,Home & Kitchen,8,424.54,2717.06,No
+31-01-2022 17:45,CUST64,Female,United States,Clothing,13,104.65,1088.36,No
+01-02-2022 17:45,CUST266,Male,Brazil,Home & Kitchen,8,173.95,1113.28,Yes
+02-02-2022 17:45,CUST235,Female,Australia,Home & Kitchen,2,209.43,335.09,Yes
+03-02-2022 17:45,CUST124,Female,Japan,Electronics,4,366.52,1172.86,No
+04-02-2022 17:45,CUST163,Male,Italy,Home & Kitchen,3,359.3,862.32,Yes
+05-02-2022 17:45,CUST160,Female,Japan,Fashion & Accessories,3,451.4,1083.36,No
+06-02-2022 17:45,CUST279,Male,Italy,Clothing,8,46.6,298.24,Yes
+07-02-2022 17:45,CUST26,Female,Japan,Electronics,6,379.93,1823.66,No
+08-02-2022 17:45,CUST38,Female,Germany,Fashion & Accessories,20,296.12,4737.92,Yes
+09-02-2022 17:45,CUST216,Female,United States,Clothing,17,246.1,3346.96,Yes
+10-02-2022 17:45,CUST288,Female,Canada,Fashion & Accessories,16,49.1,628.48,No
+11-02-2022 17:45,CUST274,Male,New York,Clothing,19,64.57,981.46,No
+12-02-2022 17:45,CUST112,Female,China,Clothing,13,377.58,3926.83,Yes
+13-02-2022 17:45,CUST292,Female,Italy,Fashion & Accessories,13,13.19,137.18,No
+14-02-2022 17:45,CUST176,Male,Germany,Fashion & Accessories,4,230.86,738.75,No
+15-02-2022 17:45,CUST159,Female,Australia,Home & Kitchen,7,221.83,1242.25,No
+16-02-2022 17:45,CUST41,Female,United States,Home & Kitchen,18,374.97,5399.57,Yes
+17-02-2022 17:45,CUST80,Female,United States,Fashion & Accessories,18,253.14,3645.22,No
+18-02-2022 17:45,CUST162,Male,Brazil,Home & Kitchen,2,197.73,316.37,Yes
+19-02-2022 17:45,CUST75,Female,Italy,Electronics,5,310.94,1243.76,No
+20-02-2022 17:45,CUST245,Female,Germany,Clothing,5,300.35,1201.4,Yes
+21-02-2022 17:45,CUST152,Male,China,Home & Kitchen,7,318.1,1781.36,No
+22-02-2022 17:45,CUST94,Male,India,Electronics,16,156.06,1997.57,No
+23-02-2022 17:45,CUST121,Female,China,Clothing,7,252.03,1411.37,No
+24-02-2022 17:45,CUST209,Female,Brazil,Fashion & Accessories,2,195.35,312.56,No
+25-02-2022 17:45,CUST189,Female,United States,Fashion & Accessories,17,87.16,1185.38,No
+26-02-2022 17:45,CUST133,Female,Japan,Electronics,4,146.6,469.12,No
+27-02-2022 17:45,CUST300,Male,Italy,Fashion & Accessories,3,407.76,978.62,Yes
+28-02-2022 17:45,CUST213,Male,Canada,Electronics,11,283.91,2498.41,No
+01-03-2022 17:45,CUST185,Male,Canada,Fashion & Accessories,1,37.47,41.22,No
+02-03-2022 17:45,CUST44,Male,Japan,Electronics,1,386.38,425.02,No
+03-03-2022 17:45,CUST225,Male,China,Fashion & Accessories,3,36.88,121.7,No
+04-03-2022 17:45,CUST208,Female,France,Fashion & Accessories,1,337.95,371.75,No
+05-03-2022 17:45,CUST254,Female,Germany,Home & Kitchen,8,477.35,4200.68,No
+06-03-2022 17:45,CUST111,Female,United States,Fashion & Accessories,4,26.67,117.35,Yes
+07-03-2022 17:45,CUST118,Male,Canada,Home & Kitchen,12,417.98,5517.34,Yes
+08-03-2022 17:45,CUST80,Male,France,Electronics,19,468.4,9789.56,Yes
+09-03-2022 17:45,CUST195,Male,New York,Clothing,20,214.19,4712.18,Yes
+10-03-2022 17:45,CUST63,Female,New York,Fashion & Accessories,7,450.79,3471.08,Yes
+11-03-2022 17:45,CUST181,Female,China,Home & Kitchen,13,70.26,1004.72,Yes
+12-03-2022 17:45,CUST21,Male,Japan,Home & Kitchen,20,132.49,2914.78,No
+13-03-2022 17:45,CUST181,Male,India,Home & Kitchen,5,432.71,2379.9,Yes
+14-03-2022 17:45,CUST235,Male,Japan,Clothing,17,53.79,1005.87,No
+15-03-2022 17:45,CUST162,Male,Japan,Home & Kitchen,14,273.8,4216.52,No
+16-03-2022 17:45,CUST148,Male,France,Home & Kitchen,18,112.35,2224.53,Yes
+17-03-2022 17:45,CUST13,Male,New York,Electronics,19,284.74,5951.07,No
+18-03-2022 17:45,CUST19,Male,Brazil,Fashion & Accessories,10,101,1111,No
+19-03-2022 17:45,CUST206,Male,France,Fashion & Accessories,3,379.12,1251.1,No
+20-03-2022 17:45,CUST139,Male,China,Electronics,19,18.85,393.97,Yes
+21-03-2022 17:45,CUST169,Female,Germany,Clothing,17,189.02,3534.67,No
+22-03-2022 17:45,CUST277,Male,Australia,Home & Kitchen,7,342.24,2635.25,Yes
+23-03-2022 17:45,CUST43,Male,United States,Fashion & Accessories,15,230.77,3807.71,No
+24-03-2022 17:45,CUST19,Male,Italy,Fashion & Accessories,12,192.83,2545.36,Yes
+25-03-2022 17:45,CUST251,Male,Australia,Electronics,6,46.27,305.38,Yes
+26-03-2022 17:45,CUST63,Female,China,Home & Kitchen,17,65.9,1232.33,Yes
+27-03-2022 17:45,CUST122,Male,Canada,Fashion & Accessories,5,50.21,276.16,No
+28-03-2022 17:45,CUST5,Male,Brazil,Clothing,5,115.41,634.75,No
+29-03-2022 17:45,CUST174,Male,China,Home & Kitchen,19,147.1,3074.39,Yes
+30-03-2022 17:45,CUST182,Male,Germany,Electronics,10,121.41,1335.51,No
+31-03-2022 17:45,CUST195,Female,Germany,Fashion & Accessories,13,365.9,5232.37,Yes
+01-04-2022 17:45,CUST12,Male,Italy,Fashion & Accessories,7,494.57,3461.99,Yes
+02-04-2022 17:45,CUST70,Female,Australia,Fashion & Accessories,11,161.51,1776.61,No
+03-04-2022 17:45,CUST227,Male,United States,Home & Kitchen,20,171.99,3439.8,Yes
+04-04-2022 17:45,CUST44,Male,Brazil,Fashion & Accessories,12,27.43,329.16,Yes
+05-04-2022 17:45,CUST221,Female,Canada,Electronics,10,76.8,768,Yes
+06-04-2022 17:45,CUST6,Male,United States,Fashion & Accessories,16,372.73,5963.68,Yes
+07-04-2022 17:45,CUST280,Female,India,Fashion & Accessories,20,225.37,4507.4,Yes
+08-04-2022 17:45,CUST68,Male,New York,Home & Kitchen,12,181.19,2174.28,Yes
+09-04-2022 17:45,CUST160,Male,Germany,Clothing,4,395.48,1581.92,No
+10-04-2022 17:45,CUST228,Male,China,Fashion & Accessories,1,420.6,420.6,Yes
+11-04-2022 17:45,CUST81,Female,Germany,Clothing,2,268.06,536.12,Yes
+12-04-2022 17:45,CUST161,Male,Germany,Clothing,9,76.3,686.7,Yes
+13-04-2022 17:45,CUST181,Female,Canada,Clothing,11,66.76,734.36,Yes
+14-04-2022 17:45,CUST77,Female,Canada,Home & Kitchen,2,170.15,340.3,Yes
+15-04-2022 17:45,CUST65,Female,Canada,Clothing,15,153.32,2299.8,No
+16-04-2022 17:45,CUST56,Male,Japan,Clothing,12,48.85,586.2,No
+17-04-2022 17:45,CUST76,Female,United States,Fashion & Accessories,7,204.12,1428.84,Yes
+18-04-2022 17:45,CUST280,Male,Germany,Home & Kitchen,19,211.13,4011.47,Yes
+19-04-2022 17:45,CUST282,Male,Canada,Fashion & Accessories,10,168.87,1688.7,Yes
+20-04-2022 17:45,CUST206,Female,United States,Clothing,15,357.92,5368.8,No
+21-04-2022 17:45,CUST108,Female,Germany,Fashion & Accessories,6,315.56,1893.36,Yes
+22-04-2022 17:45,CUST91,Male,India,Electronics,6,230.75,1384.5,Yes
+23-04-2022 17:45,CUST101,Male,China,Clothing,3,274.79,824.37,Yes
+24-04-2022 17:45,CUST31,Female,India,Electronics,4,114.32,457.28,No
+25-04-2022 17:45,CUST232,Female,Australia,Clothing,11,56.71,623.81,No
+26-04-2022 17:45,CUST196,Male,Australia,Clothing,12,445.25,5343,No
+27-04-2022 17:45,CUST166,Female,France,Home & Kitchen,6,348.26,2089.56,Yes
+28-04-2022 17:45,CUST196,Female,United States,Clothing,16,495.79,7932.64,Yes
+29-04-2022 17:45,CUST112,Female,China,Clothing,12,133.21,1598.52,Yes
+30-04-2022 17:45,CUST214,Female,India,Fashion & Accessories,14,370.73,5190.22,No
+01-05-2022 17:45,CUST112,Female,United States,Clothing,9,64.77,582.93,Yes
+02-05-2022 17:45,CUST107,Female,Canada,Clothing,20,305.33,6106.6,No
+03-05-2022 17:45,CUST179,Female,Germany,Fashion & Accessories,10,125.05,1250.5,No
+04-05-2022 17:45,CUST74,Female,China,Home & Kitchen,5,345.34,1726.7,No
+05-05-2022 17:45,CUST44,Female,China,Home & Kitchen,15,133.43,2001.45,No
+06-05-2022 17:45,CUST181,Male,China,Home & Kitchen,19,280.6,5331.4,Yes
+07-05-2022 17:45,CUST80,Male,India,Clothing,7,228.65,1600.55,Yes
+08-05-2022 17:45,CUST195,Male,India,Home & Kitchen,11,382.89,4211.79,No
+09-05-2022 17:45,CUST202,Female,Italy,Clothing,3,290.73,872.19,Yes
+10-05-2022 17:45,CUST8,Female,Brazil,Fashion & Accessories,4,209.91,839.64,Yes
+11-05-2022 17:45,CUST66,Male,Japan,Home & Kitchen,1,98.09,98.09,No
+12-05-2022 17:45,CUST18,Female,France,Fashion & Accessories,14,264.29,3700.06,No
+13-05-2022 17:45,CUST268,Female,Japan,Electronics,11,135.57,1491.27,Yes
+14-05-2022 17:45,CUST194,Male,India,Fashion & Accessories,8,159.51,1276.08,Yes
+15-05-2022 17:45,CUST297,Male,Japan,Home & Kitchen,13,81.16,1055.08,Yes
+16-05-2022 17:45,CUST291,Female,New York,Home & Kitchen,2,12.19,24.38,No
+17-05-2022 17:45,CUST190,Female,Japan,Electronics,6,83.13,498.78,No
+18-05-2022 17:45,CUST48,Male,Brazil,Fashion & Accessories,15,56.01,840.15,Yes
+19-05-2022 17:45,CUST112,Male,Brazil,Clothing,10,369.14,3691.4,Yes
+20-05-2022 17:45,CUST298,Female,France,Clothing,16,315.97,5055.52,Yes
+21-05-2022 17:45,CUST165,Male,Japan,Clothing,9,431.47,3883.23,No
+22-05-2022 17:45,CUST112,Male,Italy,Fashion & Accessories,5,462.66,2313.3,Yes
+23-05-2022 17:45,CUST181,Female,Brazil,Electronics,16,328.77,5260.32,Yes
+24-05-2022 17:45,CUST165,Female,Australia,Home & Kitchen,7,199.16,1394.12,No
+25-05-2022 17:45,CUST78,Female,Germany,Electronics,12,216.93,2603.16,No
+26-05-2022 17:45,CUST195,Male,Germany,Clothing,9,130.45,1174.05,No
+27-05-2022 17:45,CUST48,Male,Brazil,Fashion & Accessories,6,402.13,2412.78,Yes
+28-05-2022 17:45,CUST21,Female,Australia,Electronics,20,255.24,5104.8,No
+29-05-2022 17:45,CUST196,Male,France,Clothing,9,198.95,1790.55,No
+30-05-2022 17:45,CUST4,Female,China,Fashion & Accessories,17,266.5,4530.5,No
+31-05-2022 17:45,CUST215,Female,Germany,Clothing,18,122.63,2207.34,No
+01-06-2022 17:45,CUST293,Female,Australia,Fashion & Accessories,20,19.61,470.64,Yes
+02-06-2022 17:45,CUST263,Male,Germany,Electronics,6,258.27,1859.54,Yes
+03-06-2022 17:45,CUST21,Male,Italy,Fashion & Accessories,6,387.76,2791.87,No
+04-06-2022 17:45,CUST287,Male,Italy,Clothing,19,73.67,1679.68,Yes
+05-06-2022 17:45,CUST76,Male,Italy,Fashion & Accessories,9,457.33,4939.16,Yes
+06-06-2022 17:45,CUST238,Male,Australia,Clothing,15,163.94,2950.92,Yes
+07-06-2022 17:45,CUST199,Male,Japan,Fashion & Accessories,5,132.1,792.6,No
+08-06-2022 17:45,CUST70,Male,Brazil,Fashion & Accessories,4,183.87,882.58,Yes
+09-06-2022 17:45,CUST11,Female,Japan,Home & Kitchen,9,459.05,4957.74,Yes
+10-06-2022 17:45,CUST15,Male,Germany,Home & Kitchen,2,322.64,774.34,Yes
+11-06-2022 17:45,CUST273,Female,Italy,Electronics,7,359.41,3019.04,No
+12-06-2022 17:45,CUST163,Female,China,Electronics,2,15.36,36.86,Yes
+13-06-2022 17:45,CUST91,Female,India,Electronics,3,82.82,298.15,No
+14-06-2022 17:45,CUST74,Female,Canada,Electronics,3,153.76,553.54,No
+15-06-2022 17:45,CUST123,Female,Germany,Clothing,10,161.9,1942.8,Yes
+16-06-2022 17:45,CUST181,Male,United States,Clothing,12,38.9,560.16,No
+17-06-2022 17:45,CUST202,Female,United States,Home & Kitchen,9,366.71,3960.47,No
+18-06-2022 17:45,CUST141,Female,India,Electronics,17,39.85,812.94,Yes
+19-06-2022 17:45,CUST289,Male,United States,Fashion & Accessories,6,454.54,3272.69,No
+20-06-2022 17:45,CUST46,Male,Canada,Clothing,20,71.39,1713.36,No
+21-06-2022 17:45,CUST33,Male,Germany,Electronics,3,133.94,482.18,Yes
+22-06-2022 17:45,CUST66,Female,Italy,Electronics,10,107.48,1289.76,Yes
+23-06-2022 17:45,CUST230,Male,Canada,Clothing,8,279,2678.4,Yes
+24-06-2022 17:45,CUST105,Female,France,Electronics,5,167.73,1006.38,No
+25-06-2022 17:45,CUST223,Male,Canada,Electronics,6,251.68,1812.1,Yes
+26-06-2022 17:45,CUST143,Female,China,Home & Kitchen,8,70.88,680.45,Yes
+27-06-2022 17:45,CUST251,Male,Australia,Home & Kitchen,12,296.99,4276.66,No
+28-06-2022 17:45,CUST143,Male,United States,Clothing,15,106.15,1910.7,No
+29-06-2022 17:45,CUST286,Male,Canada,Electronics,9,380.57,4110.16,Yes
+30-06-2022 17:45,CUST263,Male,France,Electronics,14,395.33,6641.54,Yes
+01-07-2022 17:45,CUST102,Female,China,Fashion & Accessories,2,84.47,219.62,No
+02-07-2022 17:45,CUST221,Male,Italy,Clothing,18,177.56,4154.9,No
+03-07-2022 17:45,CUST25,Female,Germany,Fashion & Accessories,17,236.11,5218.03,Yes
+04-07-2022 17:45,CUST267,Female,France,Clothing,9,204.34,2390.78,No
+05-07-2022 17:45,CUST254,Female,Canada,Clothing,17,183.37,4052.48,Yes
+06-07-2022 17:45,CUST253,Male,Australia,Home & Kitchen,10,492.83,6406.79,No
+07-07-2022 17:45,CUST101,Male,New York,Home & Kitchen,3,134.22,523.46,Yes
+08-07-2022 17:45,CUST86,Female,Germany,Home & Kitchen,13,162.85,2752.16,Yes
+09-07-2022 17:45,CUST80,Male,Canada,Fashion & Accessories,14,347.09,6317.04,No
+10-07-2022 17:45,CUST81,Female,Australia,Electronics,5,427.67,2779.86,Yes
+11-07-2022 17:45,CUST271,Male,Japan,Clothing,14,111.74,2033.67,No
+12-07-2022 17:45,CUST202,Female,Germany,Clothing,9,70.23,821.69,No
+13-07-2022 17:45,CUST81,Male,Brazil,Clothing,11,495.99,7092.66,No
+14-07-2022 17:45,CUST146,Male,Japan,Home & Kitchen,13,107.48,1816.41,No
+15-07-2022 17:45,CUST199,Female,Canada,Electronics,20,60.8,1580.8,No
+16-07-2022 17:45,CUST56,Female,New York,Home & Kitchen,14,333.16,6063.51,Yes
+17-07-2022 17:45,CUST273,Female,Germany,Electronics,5,304.12,1976.78,No
+18-07-2022 17:45,CUST280,Male,United States,Home & Kitchen,3,462.23,1802.7,No
+19-07-2022 17:45,CUST173,Female,China,Fashion & Accessories,10,120.04,1560.52,No
+20-07-2022 17:45,CUST204,Male,Japan,Electronics,7,370,3367,Yes
+21-07-2022 17:45,CUST37,Male,Australia,Electronics,14,360.03,6552.55,Yes
+22-07-2022 17:45,CUST115,Female,India,Home & Kitchen,4,133.66,695.03,Yes
+23-07-2022 17:45,CUST235,Male,United States,Electronics,10,118.7,1543.1,No
+24-07-2022 17:45,CUST229,Male,Germany,Clothing,9,71.81,840.18,Yes
+25-07-2022 17:45,CUST290,Female,Germany,Electronics,1,53.59,69.67,Yes
+26-07-2022 17:45,CUST90,Male,Italy,Home & Kitchen,6,45.91,358.1,No
+27-07-2022 17:45,CUST135,Female,New York,Electronics,6,125.8,981.24,No
+28-07-2022 17:45,CUST143,Male,Italy,Fashion & Accessories,16,356.29,7410.83,No
+29-07-2022 17:45,CUST7,Male,Australia,Clothing,11,412.37,5896.89,Yes
+30-07-2022 17:45,CUST174,Male,Italy,Home & Kitchen,7,129.25,1176.17,No
+31-07-2022 17:45,CUST161,Female,France,Home & Kitchen,2,306.91,797.97,No
+01-08-2022 17:45,CUST141,Female,Germany,Electronics,12,486.47,7005.17,No
+02-08-2022 17:45,CUST154,Female,Canada,Clothing,7,58.39,490.48,No
+03-08-2022 17:45,CUST116,Male,United States,Electronics,19,87.46,1994.09,No
+04-08-2022 17:45,CUST46,Female,Australia,Electronics,20,117.84,2828.16,No
+05-08-2022 17:45,CUST71,Female,France,Clothing,5,181.64,1089.84,Yes
+06-08-2022 17:45,CUST158,Male,Canada,Fashion & Accessories,18,318.41,6877.66,Yes
+07-08-2022 17:45,CUST87,Female,China,Clothing,17,271.25,5533.5,No
+08-08-2022 17:45,CUST131,Male,Germany,Electronics,9,19.85,214.38,Yes
+09-08-2022 17:45,CUST190,Female,New York,Electronics,12,476.59,6862.9,Yes
+10-08-2022 17:45,CUST196,Female,France,Fashion & Accessories,4,255.09,1224.43,No
+11-08-2022 17:45,CUST23,Male,Japan,Electronics,1,11.56,13.87,No
+12-08-2022 17:45,CUST239,Male,China,Electronics,9,188.09,2031.37,No
+13-08-2022 17:45,CUST240,Female,Japan,Fashion & Accessories,17,16.5,336.6,Yes
+14-08-2022 17:45,CUST98,Male,Japan,Clothing,9,144.7,1562.76,No
+15-08-2022 17:45,CUST177,Male,France,Home & Kitchen,11,118.94,1570.01,No
+16-08-2022 17:45,CUST255,Male,United States,Fashion & Accessories,10,242.8,2913.6,Yes
+17-08-2022 17:45,CUST239,Female,Japan,Fashion & Accessories,12,277.34,3993.7,Yes
+18-08-2022 17:45,CUST283,Female,Brazil,Clothing,14,149.53,2512.1,Yes
+19-08-2022 17:45,CUST263,Male,Germany,Home & Kitchen,15,434.96,7829.28,Yes
+20-08-2022 17:45,CUST29,Male,China,Clothing,16,179.05,3437.76,No
+21-08-2022 17:45,CUST239,Male,Germany,Electronics,12,114.33,1646.35,Yes
+22-08-2022 17:45,CUST268,Female,China,Electronics,5,70.28,421.68,No
+23-08-2022 17:45,CUST14,Male,China,Electronics,12,95.44,1374.34,No
+24-08-2022 17:45,CUST84,Male,United States,Electronics,14,449.49,7551.43,Yes
