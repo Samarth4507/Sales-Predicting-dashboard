@@ -3,3 +3,4 @@ streamlit
 plotly
 streamlit-option-menu
 scikit-learn
+matplotlib
