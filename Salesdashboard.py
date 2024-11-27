@@ -67,12 +67,16 @@ with st.sidebar:
 # Function to load and preprocess data
 @st.cache_data
 def get_data():
+    url = "https://raw.githubusercontent.com/Samarth4507/Sales-Predicting-dashboard/main/sales_data.csv"
     try:
-        # Corrected file path (ensure the path is valid)
-        data = pd.read_csv(r"C:\Project\internassignment_files\sales_data.csv")  # Fixed the string by closing it properly
+        data = pd.read_csv(url)
         data['timestamp'] = pd.to_datetime(data['timestamp'], format='%d-%m-%Y %H:%M', errors='coerce')
         data.dropna(subset=['timestamp'], inplace=True)
         return data
+    except Exception as e:
+        st.error(f"Error loading data from the URL: {e}")
+        return pd.DataFrame()
+
     except FileNotFoundError:
         st.error("File not found. Please check the file path.")
         return pd.DataFrame()
