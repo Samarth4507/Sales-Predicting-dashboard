@@ -77,19 +77,18 @@ def get_data():
         st.error(f"Error loading data from the URL: {e}")
         return pd.DataFrame()
 
-    except FileNotFoundError:
-        st.error("File not found. Please check the file path.")
-        return pd.DataFrame()
-    except Exception as e:
-        st.error(f"An error occurred while loading data: {e}")
-        return pd.DataFrame()
-
 # Function to load the pickle model
 @st.cache_resource
 def load_model():
     try:
         with open('regression_model.pkl', 'rb') as file:
-            return pickle.load(file)
+            loaded_content = pickle.load(file)
+            # Check if the loaded object is a tuple, and extract the model if so
+            if isinstance(loaded_content, tuple):
+                model = loaded_content[0]  # Assume the model is the first element
+            else:
+                model = loaded_content
+            return model
     except FileNotFoundError:
         st.error("Model file not found.")
         return None
@@ -136,26 +135,16 @@ else:
         if selected == "Home":
             st.title("Home Page")
             st.write("Welcome to the Sales Dashboard!")
-
             total_sales = filtered_data['total_sales'].sum()
             total_units_sold = filtered_data['units_sold'].sum()
 
             st.metric(label="Total Sales", value=f"${total_sales:,.2f}")
             st.metric(label="Units Sold", value=f"{total_units_sold:,}")
-
-            top_products = filtered_data.groupby('product')['total_sales'].sum().sort_values(ascending=False).head(5)
-            top_countries = filtered_data.groupby('Country')['total_sales'].sum().sort_values(ascending=False).head(5)
-
-            st.subheader("Top 5 Products by Sales")
-            st.table(top_products)
-
-            st.subheader("Top 5 Countries by Sales")
-            st.table(top_countries)
-
         elif selected == "Sales":
             st.title("Sales Page")
             sales_over_time = filtered_data.groupby(['timestamp', 'product'])['total_sales'].sum().reset_index()
-            fig = px.line(sales_over_time, x='timestamp', y='total_sales', color='product', title='Sales Over Time by Product')
+            fig = px.line(sales_over_time, x='timestamp', y='total_sales', color='product',
+                          title='Sales Over Time by Product')
             st.plotly_chart(fig)
 
         elif selected == "Trends":
@@ -193,30 +182,30 @@ else:
             st.plotly_chart(country_fig)
 
 
-
         elif selected == "Prediction":
-           st.title("Sales Prediction")
-           model = load_model()
+            st.title("Sales Prediction")
+            model = load_model()
 
-           if model is not None:
-            st.subheader("Enter Details for Prediction")
-            units_sold = st.number_input("Units Sold", min_value=0, value=10)
-            price_per_unit = st.number_input("Price per Unit", min_value=0.0, value=50.0)
+            if model is not None:
+                st.subheader("Enter Details for Prediction")
+                units_sold = st.number_input("Units Sold", min_value=0, value=10)
+                price_per_unit = st.number_input("Price per Unit", min_value=0.0, value=50.0)
 
-            if st.button("Predict Total Sales"):
-                if units_sold > 0 and price_per_unit > 0:
-                    # Prepare the input data for prediction
-                    input_data = pd.DataFrame([[units_sold, price_per_unit]], columns=['units_sold', 'price_per_unit'])
-                    predicted_sales = model.predict(input_data)[0]
-                    st.success(f"Predicted Total Sales: ${predicted_sales:,.2f}")
-
-        else:
-            st.error("Model not loaded. Please check the model file.")
-
-        # Download button for filtered data
-        st.download_button(
-            label="Download Filtered Data",
-            data=filtered_data.to_csv(index=False),
-            file_name='filtered_sales_data.csv',
-            mime='text/csv',
-        )
+                if st.button("Predict Total Sales"):
+                    if units_sold > 0 and price_per_unit > 0:
+                        try:
+                            # Prepare the input data for prediction
+                            input_data = pd.DataFrame([[units_sold, price_per_unit]], columns=['units_sold', 'price_per_unit'])
+                            predicted_sales = model.predict(input_data)[0]
+                            st.success(f"Predicted Total Sales: ${predicted_sales:,.2f}")
+                        except Exception as e:
+                            st.error(f"Prediction failed: {e}")
+            else:
+                st.error("Model not loaded. Please check the model file.")
+                # Download button for filtered data
+                st.download_button(
+                    label="Download Filtered Data",
+                    data=filtered_data.to_csv(index=False),
+                    file_name='filtered_sales_data.csv',
+                    mime='text/csv',
+                )
